@@ -1,0 +1,5872 @@
+[
+    {
+        "CPF": "312.121.488-86",
+        "CNPJ": "",
+        "Placa": "STE6I94",
+        "Seguradora": "Porto",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "3337-6786",
+        "TelefoneOutrasLocalidades": "0800-7270-800",
+        "WhatsApp": "http://wa.me/551130039303"
+    },
+    {
+        "CPF": "012.455.458-09",
+        "CNPJ": "",
+        "Placa": "ETA9150",
+        "Seguradora": "Azul",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4004-3700",
+        "TelefoneOutrasLocalidades": "0800-7030-203",
+        "WhatsApp": "http://wa.me/552139062985"
+    },
+    {
+        "CPF": "293.014.448-36",
+        "CNPJ": "",
+        "Placa": "GDB3F77",
+        "Seguradora": "Allianz",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4090-1110",
+        "TelefoneOutrasLocalidades": "0800-013-0700",
+        "WhatsApp": "http://wa.me/551140901444"
+    },
+    {
+        "CPF": "135.959.078-17",
+        "CNPJ": "",
+        "Placa": "GGY5C77",
+        "Seguradora": "Mitsui",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "0800-707-7883",
+        "TelefoneOutrasLocalidades": "0800-707-7883",
+        "WhatsApp": "http://wa.me/551131775700"
+    },
+    {
+        "CPF": "315.000.918-98",
+        "CNPJ": "",
+        "Placa": "DKT3931",
+        "Seguradora": "Azul",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4004-3700",
+        "TelefoneOutrasLocalidades": "0800-7030-203",
+        "WhatsApp": "http://wa.me/552139062985"
+    },
+    {
+        "CPF": "078.850.728-19",
+        "CNPJ": "",
+        "Placa": "EWW4176",
+        "Seguradora": "Tokio Marine",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4020-4848",
+        "TelefoneOutrasLocalidades": "0800-285-4141",
+        "WhatsApp": "http://wa.me/5511995786546"
+    },
+    {
+        "CPF": "078.850.728-19",
+        "CNPJ": "",
+        "Placa": "GJJ5599",
+        "Seguradora": "Azul",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4004-3700",
+        "TelefoneOutrasLocalidades": "0800-7030-203",
+        "WhatsApp": "http://wa.me/552139062985"
+    },
+    {
+        "CPF": "184.743.598-05",
+        "CNPJ": "",
+        "Placa": "FAR7967",
+        "Seguradora": "Azul",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4004-3700",
+        "TelefoneOutrasLocalidades": "0800-7030-203",
+        "WhatsApp": "http://wa.me/552139062985"
+    },
+    {
+        "CPF": "022.843.144-14",
+        "CNPJ": "",
+        "Placa": "FEH6160",
+        "Seguradora": "Azul",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4004-3700",
+        "TelefoneOutrasLocalidades": "0800-7030-203",
+        "WhatsApp": "http://wa.me/552139062985"
+    },
+    {
+        "CPF": "",
+        "CNPJ": "27.255.297/0001-92",
+        "Placa": "FJP9H28",
+        "Seguradora": "Suhai",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "0800-3186-546",
+        "TelefoneOutrasLocalidades": "0800-3186-546",
+        "WhatsApp": "http://wa.me/551130030335"
+    },
+    {
+        "CPF": "090.282.728-60",
+        "CNPJ": "",
+        "Placa": "DNS8200",
+        "Seguradora": "Porto",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "3337-6786",
+        "TelefoneOutrasLocalidades": "0800-7270-800",
+        "WhatsApp": "http://wa.me/551130039303"
+    },
+    {
+        "CPF": "898.423.838-49",
+        "CNPJ": "",
+        "Placa": "GEG6689",
+        "Seguradora": "Porto",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "3337-6786",
+        "TelefoneOutrasLocalidades": "0800-7270-800",
+        "WhatsApp": "http://wa.me/551130039303"
+    },
+    {
+        "CPF": "",
+        "CNPJ": "29.275.071/0001-89",
+        "Placa": "ECM0G35",
+        "Seguradora": "Suhai",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "0800-3186-546",
+        "TelefoneOutrasLocalidades": "0800-3186-546",
+        "WhatsApp": "http://wa.me/551130030335"
+    },
+    {
+        "CPF": "",
+        "CNPJ": "29.275.071/0001-89",
+        "Placa": "NVR1E74",
+        "Seguradora": "Suhai",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "0800-3186-546",
+        "TelefoneOutrasLocalidades": "0800-3186-546",
+        "WhatsApp": "http://wa.me/551130030335"
+    },
+    {
+        "CPF": "",
+        "CNPJ": "29.275.071/0001-89",
+        "Placa": "OMP6D06",
+        "Seguradora": "Suhai",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "0800-3186-546",
+        "TelefoneOutrasLocalidades": "0800-3186-546",
+        "WhatsApp": "http://wa.me/551130030335"
+    },
+    {
+        "CPF": "139.987.458-66",
+        "CNPJ": "",
+        "Placa": "HNZ1702",
+        "Seguradora": "Allianz",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4090-1110",
+        "TelefoneOutrasLocalidades": "0800-013-0700",
+        "WhatsApp": "http://wa.me/551140901444"
+    },
+    {
+        "CPF": "075.828.627-91",
+        "CNPJ": "",
+        "Placa": "LQS5768",
+        "Seguradora": "Porto",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "3337-6786",
+        "TelefoneOutrasLocalidades": "0800-7270-800",
+        "WhatsApp": "http://wa.me/551130039303"
+    },
+    {
+        "CPF": "932.854.778-49",
+        "CNPJ": "",
+        "Placa": "FTR0H18 ",
+        "Seguradora": "Tokio Marine",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4020-4848",
+        "TelefoneOutrasLocalidades": "0800-285-4141",
+        "WhatsApp": "http://wa.me/5511995786546"
+    },
+    {
+        "CPF": "320.539.868-83",
+        "CNPJ": "",
+        "Placa": "-",
+        "Seguradora": "Porto",
+        "Modalidade ": "RESIDENCIAL",
+        "TelefoneCapitais": "3337-6786",
+        "TelefoneOutrasLocalidades": "0800-7270-800",
+        "WhatsApp": "http://wa.me/551130039303"
+    },
+    {
+        "CPF": "219.585.628-90",
+        "CNPJ": "",
+        "Placa": "FZV3E81",
+        "Seguradora": "Porto",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "3337-6786",
+        "TelefoneOutrasLocalidades": "0800-7270-800",
+        "WhatsApp": "http://wa.me/551130039303"
+    },
+    {
+        "CPF": "782.930.305-34",
+        "CNPJ": "",
+        "Placa": "GCH9F71",
+        "Seguradora": "Suhai",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "0800-3186-546",
+        "TelefoneOutrasLocalidades": "0800-3186-546",
+        "WhatsApp": "http://wa.me/551130030335"
+    },
+    {
+        "CPF": "132.639.138-08",
+        "CNPJ": "",
+        "Placa": "EFS0351",
+        "Seguradora": "Porto",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "3337-6786",
+        "TelefoneOutrasLocalidades": "0800-7270-800",
+        "WhatsApp": "http://wa.me/551130039303"
+    },
+    {
+        "CPF": "218.226.968-10",
+        "CNPJ": "",
+        "Placa": "GFH7C98",
+        "Seguradora": "Tokio Marine",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4020-4848",
+        "TelefoneOutrasLocalidades": "0800-285-4141",
+        "WhatsApp": "http://wa.me/5511995786546"
+    },
+    {
+        "CPF": "074.146.546-99",
+        "CNPJ": "",
+        "Placa": "PBK8762",
+        "Seguradora": "Porto",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "3337-6786",
+        "TelefoneOutrasLocalidades": "0800-7270-800",
+        "WhatsApp": "http://wa.me/551130039303"
+    },
+    {
+        "CPF": "246.498.288-13",
+        "CNPJ": "",
+        "Placa": "FUS5C37",
+        "Seguradora": "Allianz",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4090-1110",
+        "TelefoneOutrasLocalidades": "0800-013-0700",
+        "WhatsApp": "http://wa.me/551140901444"
+    },
+    {
+        "CPF": "330.733.478-60",
+        "CNPJ": "",
+        "Placa": "FMX5338",
+        "Seguradora": "Azul",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4004-3700",
+        "TelefoneOutrasLocalidades": "0800-7030-203",
+        "WhatsApp": "http://wa.me/552139062985"
+    },
+    {
+        "CPF": "164.750.678-65",
+        "CNPJ": "",
+        "Placa": "EPT4311",
+        "Seguradora": "Suhai",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "0800-3186-546",
+        "TelefoneOutrasLocalidades": "0800-3186-546",
+        "WhatsApp": "http://wa.me/551130030335"
+    },
+    {
+        "CPF": "304.670.938-22",
+        "CNPJ": "",
+        "Placa": "GHX8I64",
+        "Seguradora": "Suhai",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "0800-3186-546",
+        "TelefoneOutrasLocalidades": "0800-3186-546",
+        "WhatsApp": "http://wa.me/551130030335"
+    },
+    {
+        "CPF": "394.340.678-47",
+        "CNPJ": "",
+        "Placa": "EUX1388",
+        "Seguradora": "Allianz",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4090-1110",
+        "TelefoneOutrasLocalidades": "0800-013-0700",
+        "WhatsApp": "http://wa.me/551140901444"
+    },
+    {
+        "CPF": "039.793.098-43",
+        "CNPJ": "",
+        "Placa": "FGN9658",
+        "Seguradora": "Azul",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4004-3700",
+        "TelefoneOutrasLocalidades": "0800-7030-203",
+        "WhatsApp": "http://wa.me/552139062985"
+    },
+    {
+        "CPF": "304.378.218-62",
+        "CNPJ": "",
+        "Placa": "ABM8C34",
+        "Seguradora": "Suhai",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "0800-3186-546",
+        "TelefoneOutrasLocalidades": "0800-3186-546",
+        "WhatsApp": "http://wa.me/551130030335"
+    },
+    {
+        "CPF": "014.618.035-60",
+        "CNPJ": "",
+        "Placa": "QPA5H30",
+        "Seguradora": "Tokio Marine",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4020-4848",
+        "TelefoneOutrasLocalidades": "0800-285-4141",
+        "WhatsApp": "http://wa.me/5511995786546"
+    },
+    {
+        "CPF": "373.447.088-92",
+        "CNPJ": "",
+        "Placa": "FMA8047",
+        "Seguradora": "Tokio Marine",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4020-4848",
+        "TelefoneOutrasLocalidades": "0800-285-4141",
+        "WhatsApp": "http://wa.me/5511995786546"
+    },
+    {
+        "CPF": "135.772.588-45",
+        "CNPJ": "",
+        "Placa": "FDH4D22",
+        "Seguradora": "Azul",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4004-3700",
+        "TelefoneOutrasLocalidades": "0800-7030-203",
+        "WhatsApp": "http://wa.me/552139062985"
+    },
+    {
+        "CPF": "318.635.118-90",
+        "CNPJ": "",
+        "Placa": "EKQ2A41",
+        "Seguradora": "Porto",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "3337-6786",
+        "TelefoneOutrasLocalidades": "0800-7270-800",
+        "WhatsApp": "http://wa.me/551130039303"
+    },
+    {
+        "CPF": "001.578.883-04",
+        "CNPJ": "",
+        "Placa": "FMW7E96 ",
+        "Seguradora": "Tokio Marine",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4020-4848",
+        "TelefoneOutrasLocalidades": "0800-285-4141",
+        "WhatsApp": "http://wa.me/5511995786546"
+    },
+    {
+        "CPF": "319.649.698-83",
+        "CNPJ": "",
+        "Placa": "FMH9203",
+        "Seguradora": "Suhai",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "0800-3186-546",
+        "TelefoneOutrasLocalidades": "0800-3186-546",
+        "WhatsApp": "http://wa.me/551130030335"
+    },
+    {
+        "CPF": "195.809.668-77",
+        "CNPJ": "",
+        "Placa": "GDT5B66",
+        "Seguradora": "Porto",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "3337-6786",
+        "TelefoneOutrasLocalidades": "0800-7270-800",
+        "WhatsApp": "http://wa.me/551130039303"
+    },
+    {
+        "CPF": "137.408.698-36",
+        "CNPJ": "",
+        "Placa": "BZL1G49",
+        "Seguradora": "Suhai",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "0800-3186-546",
+        "TelefoneOutrasLocalidades": "0800-3186-546",
+        "WhatsApp": "http://wa.me/551130030335"
+    },
+    {
+        "CPF": "169.311.548-42",
+        "CNPJ": "",
+        "Placa": "EMK1E61",
+        "Seguradora": "Porto",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "3337-6786",
+        "TelefoneOutrasLocalidades": "0800-7270-800",
+        "WhatsApp": "http://wa.me/551130039303"
+    },
+    {
+        "CPF": "405.813.548-42",
+        "CNPJ": "",
+        "Placa": "EML5908",
+        "Seguradora": "Azul",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4004-3700",
+        "TelefoneOutrasLocalidades": "0800-7030-203",
+        "WhatsApp": "http://wa.me/552139062985"
+    },
+    {
+        "CPF": "717.017.709-97",
+        "CNPJ": "",
+        "Placa": "GDC3E47",
+        "Seguradora": "Suhai",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "0800-3186-546",
+        "TelefoneOutrasLocalidades": "0800-3186-546",
+        "WhatsApp": "http://wa.me/551130030335"
+    },
+    {
+        "CPF": "897.421.178-53",
+        "CNPJ": "",
+        "Placa": "GGA4A34",
+        "Seguradora": "Allianz",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4090-1110",
+        "TelefoneOutrasLocalidades": "0800-013-0700",
+        "WhatsApp": "http://wa.me/551140901444"
+    },
+    {
+        "CPF": "384.835.458-61",
+        "CNPJ": "",
+        "Placa": "CUN6F28",
+        "Seguradora": "Porto",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "3337-6786",
+        "TelefoneOutrasLocalidades": "0800-7270-800",
+        "WhatsApp": "http://wa.me/551130039303"
+    },
+    {
+        "CPF": "144.183.438-90",
+        "CNPJ": "",
+        "Placa": "GDZ3D41",
+        "Seguradora": "Tokio Marine",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4020-4848",
+        "TelefoneOutrasLocalidades": "0800-285-4141",
+        "WhatsApp": "http://wa.me/5511995786546"
+    },
+    {
+        "CPF": "079.337.166-01",
+        "CNPJ": "",
+        "Placa": "REF0A70",
+        "Seguradora": "Porto",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "3337-6786",
+        "TelefoneOutrasLocalidades": "0800-7270-800",
+        "WhatsApp": "http://wa.me/551130039303"
+    },
+    {
+        "CPF": "760.907.794-15",
+        "CNPJ": "",
+        "Placa": "EJD5311",
+        "Seguradora": "Porto",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "3337-6786",
+        "TelefoneOutrasLocalidades": "0800-7270-800",
+        "WhatsApp": "http://wa.me/551130039303"
+    },
+    {
+        "CPF": "158.012.428-30",
+        "CNPJ": "",
+        "Placa": "FYI2E39",
+        "Seguradora": "Suhai",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "0800-3186-546",
+        "TelefoneOutrasLocalidades": "0800-3186-546",
+        "WhatsApp": "http://wa.me/551130030335"
+    },
+    {
+        "CPF": "371.572.358-03",
+        "CNPJ": "",
+        "Placa": "MBI6E27",
+        "Seguradora": "Azul",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4004-3700",
+        "TelefoneOutrasLocalidades": "0800-7030-203",
+        "WhatsApp": "http://wa.me/552139062985"
+    },
+    {
+        "CPF": "303.368.848-93",
+        "CNPJ": "",
+        "Placa": "EST4F43",
+        "Seguradora": "Tokio Marine",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4020-4848",
+        "TelefoneOutrasLocalidades": "0800-285-4141",
+        "WhatsApp": "http://wa.me/5511995786546"
+    },
+    {
+        "CPF": "917.707.858-68",
+        "CNPJ": "",
+        "Placa": "-",
+        "Seguradora": "Bradesco",
+        "Modalidade ": "RESIDENCIAL",
+        "TelefoneCapitais": "4004-2757",
+        "TelefoneOutrasLocalidades": "0800-701-2757",
+        "WhatsApp": "http://wa.me/551130031022"
+    },
+    {
+        "CPF": "371.572.358-03",
+        "CNPJ": "",
+        "Placa": "BTU0F53",
+        "Seguradora": "Suhai",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "0800-3186-546",
+        "TelefoneOutrasLocalidades": "0800-3186-546",
+        "WhatsApp": "http://wa.me/551130030335"
+    },
+    {
+        "CPF": "483.624.708-01",
+        "CNPJ": "",
+        "Placa": "FLP0843",
+        "Seguradora": "Suhai",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "0800-3186-546",
+        "TelefoneOutrasLocalidades": "0800-3186-546",
+        "WhatsApp": "http://wa.me/551130030335"
+    },
+    {
+        "CPF": "249.085.648-09",
+        "CNPJ": "",
+        "Placa": "FFO1079",
+        "Seguradora": "Azul",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4004-3700",
+        "TelefoneOutrasLocalidades": "0800-7030-203",
+        "WhatsApp": "http://wa.me/552139062985"
+    },
+    {
+        "CPF": "397.615.408-39",
+        "CNPJ": "",
+        "Placa": "DQX3995",
+        "Seguradora": "Azul",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4004-3700",
+        "TelefoneOutrasLocalidades": "0800-7030-203",
+        "WhatsApp": "http://wa.me/552139062985"
+    },
+    {
+        "CPF": "225.080.318-87",
+        "CNPJ": "",
+        "Placa": "FPR0D64",
+        "Seguradora": "Tokio Marine",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4020-4848",
+        "TelefoneOutrasLocalidades": "0800-285-4141",
+        "WhatsApp": "http://wa.me/5511995786546"
+    },
+    {
+        "CPF": "",
+        "CNPJ": "01.097.550/0001-33",
+        "Placa": "FFI0B82",
+        "Seguradora": "Liberty",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "0800-7014-120",
+        "TelefoneOutrasLocalidades": "0800-7014-120",
+        "WhatsApp": "http://wa.me/551132061414"
+    },
+    {
+        "CPF": "465.075.278-74",
+        "CNPJ": "",
+        "Placa": "EWP1244",
+        "Seguradora": "Azul",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4004-3700",
+        "TelefoneOutrasLocalidades": "0800-7030-203",
+        "WhatsApp": "http://wa.me/552139062985"
+    },
+    {
+        "CPF": "024.943.751-18",
+        "CNPJ": "",
+        "Placa": "GAF9E39",
+        "Seguradora": "Zurich",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4020-4848",
+        "TelefoneOutrasLocalidades": "0800-285-4141",
+        "WhatsApp": "http://wa.me/551128902121"
+    },
+    {
+        "CPF": "181.218.288-05",
+        "CNPJ": "",
+        "Placa": "DWP5533",
+        "Seguradora": "Tokio Marine",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4020-4848",
+        "TelefoneOutrasLocalidades": "0800-285-4141",
+        "WhatsApp": "http://wa.me/5511995786546"
+    },
+    {
+        "CPF": "283.773.168-46",
+        "CNPJ": "",
+        "Placa": "CUI9I03",
+        "Seguradora": "Tokio Marine",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4020-4848",
+        "TelefoneOutrasLocalidades": "0800-285-4141",
+        "WhatsApp": "http://wa.me/5511995786546"
+    },
+    {
+        "CPF": "154.127.488-13",
+        "CNPJ": "",
+        "Placa": "DPA7H30",
+        "Seguradora": "HDI",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "3003-5390",
+        "TelefoneOutrasLocalidades": "0800-4344-340",
+        "WhatsApp": "http://wa.me/5508007701608"
+    },
+    {
+        "CPF": "021.201.360-25",
+        "CNPJ": "",
+        "Placa": "QAT2E82",
+        "Seguradora": "Tokio Marine",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4020-4848",
+        "TelefoneOutrasLocalidades": "0800-285-4141",
+        "WhatsApp": "http://wa.me/5511995786546"
+    },
+    {
+        "CPF": "284.416.008-56",
+        "CNPJ": "",
+        "Placa": "STN9D08",
+        "Seguradora": "Tokio Marine",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4020-4848",
+        "TelefoneOutrasLocalidades": "0800-285-4141",
+        "WhatsApp": "http://wa.me/5511995786546"
+    },
+    {
+        "CPF": "247.653.478-18",
+        "CNPJ": "",
+        "Placa": "FDO5590",
+        "Seguradora": "Porto",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "3337-6786",
+        "TelefoneOutrasLocalidades": "0800-7270-800",
+        "WhatsApp": "http://wa.me/551130039303"
+    },
+    {
+        "CPF": "093.411.758-60",
+        "CNPJ": "",
+        "Placa": "FJG6H56",
+        "Seguradora": "Allianz",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4090-1110",
+        "TelefoneOutrasLocalidades": "0800-013-0700",
+        "WhatsApp": "http://wa.me/551140901444"
+    },
+    {
+        "CPF": "717.057.274-50",
+        "CNPJ": "",
+        "Placa": "RZT5A26",
+        "Seguradora": "Suhai",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "0800-3186-546",
+        "TelefoneOutrasLocalidades": "0800-3186-546",
+        "WhatsApp": "http://wa.me/551130030335"
+    },
+    {
+        "CPF": "016.281.259-00",
+        "CNPJ": "",
+        "Placa": "OKF1143",
+        "Seguradora": "Azul",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4004-3700",
+        "TelefoneOutrasLocalidades": "0800-7030-203",
+        "WhatsApp": "http://wa.me/552139062985"
+    },
+    {
+        "CPF": "380.472.548-12",
+        "CNPJ": "",
+        "Placa": "GAJ5E71",
+        "Seguradora": "Suhai",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "0800-3186-546",
+        "TelefoneOutrasLocalidades": "0800-3186-546",
+        "WhatsApp": "http://wa.me/551130030335"
+    },
+    {
+        "CPF": "093.411.758-60",
+        "CNPJ": "",
+        "Placa": "PQC8539",
+        "Seguradora": "Porto",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "3337-6786",
+        "TelefoneOutrasLocalidades": "0800-7270-800",
+        "WhatsApp": "http://wa.me/551130039303"
+    },
+    {
+        "CPF": "383.383.978-30",
+        "CNPJ": "",
+        "Placa": "FXV7832",
+        "Seguradora": "Allianz",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4090-1110",
+        "TelefoneOutrasLocalidades": "0800-013-0700",
+        "WhatsApp": "http://wa.me/551140901444"
+    },
+    {
+        "CPF": "528.584.418-55",
+        "CNPJ": "",
+        "Placa": "GGG0I94",
+        "Seguradora": "Aliro",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "0800-7701-318",
+        "TelefoneOutrasLocalidades": "0800-7701-318",
+        "WhatsApp": "http://wa.me/551132061414"
+    },
+    {
+        "CPF": "113.169.698-00",
+        "CNPJ": "",
+        "Placa": "-",
+        "Seguradora": "Tokio Marine",
+        "Modalidade ": "RESIDENCIAL",
+        "TelefoneCapitais": "4020-4848",
+        "TelefoneOutrasLocalidades": "0800-285-4141",
+        "WhatsApp": "http://wa.me/5511995786546"
+    },
+    {
+        "CPF": "113.169.698-00",
+        "CNPJ": "",
+        "Placa": "-",
+        "Seguradora": "Tokio Marine",
+        "Modalidade ": "RESIDENCIAL",
+        "TelefoneCapitais": "4020-4848",
+        "TelefoneOutrasLocalidades": "0800-285-4141",
+        "WhatsApp": "http://wa.me/5511995786546"
+    },
+    {
+        "CPF": "041.988.714-85",
+        "CNPJ": "",
+        "Placa": "FBQ0395",
+        "Seguradora": "Azul",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4004-3700",
+        "TelefoneOutrasLocalidades": "0800-7030-203",
+        "WhatsApp": "http://wa.me/552139062985"
+    },
+    {
+        "CPF": "103.762.266-92",
+        "CNPJ": "",
+        "Placa": "QNX9G15",
+        "Seguradora": "Azul",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4004-3700",
+        "TelefoneOutrasLocalidades": "0800-7030-203",
+        "WhatsApp": "http://wa.me/552139062985"
+    },
+    {
+        "CPF": "393.760.888-59",
+        "CNPJ": "",
+        "Placa": "FJZ8810",
+        "Seguradora": "Bradesco",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4004-2757",
+        "TelefoneOutrasLocalidades": "0800-701-2757",
+        "WhatsApp": "http://wa.me/551130031022"
+    },
+    {
+        "CPF": "137.668.678-30",
+        "CNPJ": "",
+        "Placa": "RBV4A98",
+        "Seguradora": "Sompo",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "11 3156-2990",
+        "TelefoneOutrasLocalidades": "0800-0162-727",
+        "WhatsApp": "-"
+    },
+    {
+        "CPF": "305.273.988-37",
+        "CNPJ": "",
+        "Placa": "EEK4971",
+        "Seguradora": "Porto",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "3337-6786",
+        "TelefoneOutrasLocalidades": "0800-7270-800",
+        "WhatsApp": "http://wa.me/551130039303"
+    },
+    {
+        "CPF": "311.224.898-89",
+        "CNPJ": "",
+        "Placa": "EDB2C45",
+        "Seguradora": "Azul",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4004-3700",
+        "TelefoneOutrasLocalidades": "0800-7030-203",
+        "WhatsApp": "http://wa.me/552139062985"
+    },
+    {
+        "CPF": "316.650.608-08",
+        "CNPJ": "",
+        "Placa": "DQH3574",
+        "Seguradora": "Azul",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4004-3700",
+        "TelefoneOutrasLocalidades": "0800-7030-203",
+        "WhatsApp": "http://wa.me/552139062985"
+    },
+    {
+        "CPF": "274.803.738-30",
+        "CNPJ": "",
+        "Placa": "FRN2018",
+        "Seguradora": "Sompo",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "11 3156-2990",
+        "TelefoneOutrasLocalidades": "0800-0162-727",
+        "WhatsApp": "-"
+    },
+    {
+        "CPF": "267.816.918-99",
+        "CNPJ": "",
+        "Placa": "EQX7D82",
+        "Seguradora": "Azul",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4004-3700",
+        "TelefoneOutrasLocalidades": "0800-7030-203",
+        "WhatsApp": "http://wa.me/552139062985"
+    },
+    {
+        "CPF": "129.790.966-60",
+        "CNPJ": "",
+        "Placa": "GKS9727",
+        "Seguradora": "Porto",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "3337-6786",
+        "TelefoneOutrasLocalidades": "0800-7270-800",
+        "WhatsApp": "http://wa.me/551130039303"
+    },
+    {
+        "CPF": "084.804.618-88",
+        "CNPJ": "",
+        "Placa": "DKZ6F63",
+        "Seguradora": "Azul",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4004-3700",
+        "TelefoneOutrasLocalidades": "0800-7030-203",
+        "WhatsApp": "http://wa.me/552139062985"
+    },
+    {
+        "CPF": "014.223.338-25",
+        "CNPJ": "",
+        "Placa": "ELG5704",
+        "Seguradora": "Azul",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4004-3700",
+        "TelefoneOutrasLocalidades": "0800-7030-203",
+        "WhatsApp": "http://wa.me/552139062985"
+    },
+    {
+        "CPF": "164.941.968-61",
+        "CNPJ": "",
+        "Placa": "DWL7515",
+        "Seguradora": "Suhai",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "0800-3186-546",
+        "TelefoneOutrasLocalidades": "0800-3186-546",
+        "WhatsApp": "http://wa.me/551130030335"
+    },
+    {
+        "CPF": "812.246.803-91",
+        "CNPJ": "",
+        "Placa": "POC9771",
+        "Seguradora": "Tokio Marine",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4020-4848",
+        "TelefoneOutrasLocalidades": "0800-285-4141",
+        "WhatsApp": "http://wa.me/5511995786546"
+    },
+    {
+        "CPF": "047.264.458-04",
+        "CNPJ": "",
+        "Placa": "BAC2060",
+        "Seguradora": "Tokio Marine",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4020-4848",
+        "TelefoneOutrasLocalidades": "0800-285-4141",
+        "WhatsApp": "http://wa.me/5511995786546"
+    },
+    {
+        "CPF": "184.728.558-99",
+        "CNPJ": "",
+        "Placa": "FAD0552",
+        "Seguradora": "Porto",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "3337-6786",
+        "TelefoneOutrasLocalidades": "0800-7270-800",
+        "WhatsApp": "http://wa.me/551130039303"
+    },
+    {
+        "CPF": "367.144.678-18",
+        "CNPJ": "",
+        "Placa": "EGO4736",
+        "Seguradora": "Bradesco",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4004-2757",
+        "TelefoneOutrasLocalidades": "0800-701-2757",
+        "WhatsApp": "http://wa.me/551130031022"
+    },
+    {
+        "CPF": "337.543.958-07",
+        "CNPJ": "",
+        "Placa": "GDA1364",
+        "Seguradora": "Bradesco",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4004-2757",
+        "TelefoneOutrasLocalidades": "0800-701-2757",
+        "WhatsApp": "http://wa.me/551130031022"
+    },
+    {
+        "CPF": "321.590.028-95",
+        "CNPJ": "",
+        "Placa": "ELI8147",
+        "Seguradora": "Tokio Marine",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4020-4848",
+        "TelefoneOutrasLocalidades": "0800-285-4141",
+        "WhatsApp": "http://wa.me/5511995786546"
+    },
+    {
+        "CPF": "068.113.936-61",
+        "CNPJ": "",
+        "Placa": "-",
+        "Seguradora": "Allianz",
+        "Modalidade ": "RESIDENCIAL",
+        "TelefoneCapitais": "4090-1110",
+        "TelefoneOutrasLocalidades": "0800-013-0700",
+        "WhatsApp": "http://wa.me/551140901444"
+    },
+    {
+        "CPF": "943.737.528-34",
+        "CNPJ": "",
+        "Placa": "FSJ5673",
+        "Seguradora": "Tokio Marine",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4020-4848",
+        "TelefoneOutrasLocalidades": "0800-285-4141",
+        "WhatsApp": "http://wa.me/5511995786546"
+    },
+    {
+        "CPF": "228.946.238-10",
+        "CNPJ": "",
+        "Placa": "GEK6229",
+        "Seguradora": "Tokio Marine",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4020-4848",
+        "TelefoneOutrasLocalidades": "0800-285-4141",
+        "WhatsApp": "http://wa.me/5511995786546"
+    },
+    {
+        "CPF": "070.408.437-65",
+        "CNPJ": "",
+        "Placa": "PAA2833",
+        "Seguradora": "Azul",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4004-3700",
+        "TelefoneOutrasLocalidades": "0800-7030-203",
+        "WhatsApp": "http://wa.me/552139062985"
+    },
+    {
+        "CPF": "198.584.688-81",
+        "CNPJ": "",
+        "Placa": "FAO0555",
+        "Seguradora": "Allianz",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4090-1110",
+        "TelefoneOutrasLocalidades": "0800-013-0700",
+        "WhatsApp": "http://wa.me/551140901444"
+    },
+    {
+        "CPF": "359.518.558-70",
+        "CNPJ": "",
+        "Placa": "FJF8J26",
+        "Seguradora": "Azul",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4004-3700",
+        "TelefoneOutrasLocalidades": "0800-7030-203",
+        "WhatsApp": "http://wa.me/552139062985"
+    },
+    {
+        "CPF": "021.090.438-06",
+        "CNPJ": "",
+        "Placa": "GFU1058",
+        "Seguradora": "Bradesco",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4004-2757",
+        "TelefoneOutrasLocalidades": "0800-701-2757",
+        "WhatsApp": "http://wa.me/551130031022"
+    },
+    {
+        "CPF": "811.186.355-15",
+        "CNPJ": "",
+        "Placa": "GGW4156",
+        "Seguradora": "Porto",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "3337-6786",
+        "TelefoneOutrasLocalidades": "0800-7270-800",
+        "WhatsApp": "http://wa.me/551130039303"
+    },
+    {
+        "CPF": "786.150.978-87",
+        "CNPJ": "",
+        "Placa": "DWK8D31",
+        "Seguradora": "Tokio Marine",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4020-4848",
+        "TelefoneOutrasLocalidades": "0800-285-4141",
+        "WhatsApp": "http://wa.me/5511995786546"
+    },
+    {
+        "CPF": "408.261.718-34",
+        "CNPJ": "",
+        "Placa": "FRL8532",
+        "Seguradora": "Porto",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "3337-6786",
+        "TelefoneOutrasLocalidades": "0800-7270-800",
+        "WhatsApp": "http://wa.me/551130039303"
+    },
+    {
+        "CPF": "344.506.698-19",
+        "CNPJ": "",
+        "Placa": "GEU8F72",
+        "Seguradora": "Porto",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "3337-6786",
+        "TelefoneOutrasLocalidades": "0800-7270-800",
+        "WhatsApp": "http://wa.me/551130039303"
+    },
+    {
+        "CPF": "512.827.998-78",
+        "CNPJ": "",
+        "Placa": "FVP9G68",
+        "Seguradora": "Tokio Marine",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4020-4848",
+        "TelefoneOutrasLocalidades": "0800-285-4141",
+        "WhatsApp": "http://wa.me/5511995786546"
+    },
+    {
+        "CPF": "227.401.288-19",
+        "CNPJ": "",
+        "Placa": "GIY0224",
+        "Seguradora": "Azul",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4004-3700",
+        "TelefoneOutrasLocalidades": "0800-7030-203",
+        "WhatsApp": "http://wa.me/552139062985"
+    },
+    {
+        "CPF": "036.417.124-32",
+        "CNPJ": "",
+        "Placa": "PCO3715",
+        "Seguradora": "Azul",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4004-3700",
+        "TelefoneOutrasLocalidades": "0800-7030-203",
+        "WhatsApp": "http://wa.me/552139062985"
+    },
+    {
+        "CPF": "165.970.858-33",
+        "CNPJ": "",
+        "Placa": "GEW0949",
+        "Seguradora": "Allianz",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4090-1110",
+        "TelefoneOutrasLocalidades": "0800-013-0700",
+        "WhatsApp": "http://wa.me/551140901444"
+    },
+    {
+        "CPF": "403.780.528-61",
+        "CNPJ": "",
+        "Placa": "GIT1F38",
+        "Seguradora": "Suhai",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "0800-3186-546",
+        "TelefoneOutrasLocalidades": "0800-3186-546",
+        "WhatsApp": "http://wa.me/551130030335"
+    },
+    {
+        "CPF": "184.743.598-05",
+        "CNPJ": "",
+        "Placa": "FNZ1962",
+        "Seguradora": "Sompo",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "11 3156-2990",
+        "TelefoneOutrasLocalidades": "0800-0162-727",
+        "WhatsApp": "-"
+    },
+    {
+        "CPF": "305.174.068-37",
+        "CNPJ": "",
+        "Placa": "RBL3A99",
+        "Seguradora": "Allianz",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4090-1110",
+        "TelefoneOutrasLocalidades": "0800-013-0700",
+        "WhatsApp": "http://wa.me/551140901444"
+    },
+    {
+        "CPF": "306.897.488-76",
+        "CNPJ": "",
+        "Placa": "EGG1B14",
+        "Seguradora": "Porto",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "3337-6786",
+        "TelefoneOutrasLocalidades": "0800-7270-800",
+        "WhatsApp": "http://wa.me/551130039303"
+    },
+    {
+        "CPF": "458.655.589-00",
+        "CNPJ": "",
+        "Placa": "RAD7555",
+        "Seguradora": "Allianz",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4090-1110",
+        "TelefoneOutrasLocalidades": "0800-013-0700",
+        "WhatsApp": "http://wa.me/551140901444"
+    },
+    {
+        "CPF": "",
+        "CNPJ": "12.163.897/0001-53",
+        "Placa": "FROTA",
+        "Seguradora": "Porto",
+        "Modalidade ": "FROTA",
+        "TelefoneCapitais": "3337-6786",
+        "TelefoneOutrasLocalidades": "0800-7270-800",
+        "WhatsApp": "http://wa.me/551130039303"
+    },
+    {
+        "CPF": "360.057.648-88",
+        "CNPJ": "",
+        "Placa": "EOF0299",
+        "Seguradora": "Porto",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "3337-6786",
+        "TelefoneOutrasLocalidades": "0800-7270-800",
+        "WhatsApp": "http://wa.me/551130039303"
+    },
+    {
+        "CPF": "172.754.698-98",
+        "CNPJ": "",
+        "Placa": "EVI6B55",
+        "Seguradora": "Allianz",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4090-1110",
+        "TelefoneOutrasLocalidades": "0800-013-0700",
+        "WhatsApp": "http://wa.me/551140901444"
+    },
+    {
+        "CPF": "064.289.828-62",
+        "CNPJ": "",
+        "Placa": "FOX4823",
+        "Seguradora": "Azul",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4004-3700",
+        "TelefoneOutrasLocalidades": "0800-7030-203",
+        "WhatsApp": "http://wa.me/552139062985"
+    },
+    {
+        "CPF": "530.167.776-49",
+        "CNPJ": "",
+        "Placa": "ODP9A79",
+        "Seguradora": "Liberty",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "0800-7014-120",
+        "TelefoneOutrasLocalidades": "0800-7014-120",
+        "WhatsApp": "http://wa.me/551132061414"
+    },
+    {
+        "CPF": "392.847.668-85",
+        "CNPJ": "",
+        "Placa": "SIR3C83",
+        "Seguradora": "Suhai",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "0800-3186-546",
+        "TelefoneOutrasLocalidades": "0800-3186-546",
+        "WhatsApp": "http://wa.me/551130030335"
+    },
+    {
+        "CPF": "092.255.718-79",
+        "CNPJ": "",
+        "Placa": "ELY0999",
+        "Seguradora": "Tokio Marine",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4020-4848",
+        "TelefoneOutrasLocalidades": "0800-285-4141",
+        "WhatsApp": "http://wa.me/5511995786546"
+    },
+    {
+        "CPF": "177.908.858-20",
+        "CNPJ": "",
+        "Placa": "FYY6J57",
+        "Seguradora": "Tokio Marine",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4020-4848",
+        "TelefoneOutrasLocalidades": "0800-285-4141",
+        "WhatsApp": "http://wa.me/5511995786546"
+    },
+    {
+        "CPF": "044.421.058-04",
+        "CNPJ": "",
+        "Placa": "GDR6483",
+        "Seguradora": "Tokio Marine",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4020-4848",
+        "TelefoneOutrasLocalidades": "0800-285-4141",
+        "WhatsApp": "http://wa.me/5511995786546"
+    },
+    {
+        "CPF": "384.835.458-61",
+        "CNPJ": "",
+        "Placa": "COP9G22",
+        "Seguradora": "Suhai",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "0800-3186-546",
+        "TelefoneOutrasLocalidades": "0800-3186-546",
+        "WhatsApp": "http://wa.me/551130030335"
+    },
+    {
+        "CPF": "080.069.278-04",
+        "CNPJ": "",
+        "Placa": "EZC3021",
+        "Seguradora": "Azul",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4004-3700",
+        "TelefoneOutrasLocalidades": "0800-7030-203",
+        "WhatsApp": "http://wa.me/552139062985"
+    },
+    {
+        "CPF": "312.121.488-86",
+        "CNPJ": "",
+        "Placa": "-",
+        "Seguradora": "Tokio Marine",
+        "Modalidade ": "RESIDENCIAL",
+        "TelefoneCapitais": "4020-4848",
+        "TelefoneOutrasLocalidades": "0800-285-4141",
+        "WhatsApp": "http://wa.me/5511995786546"
+    },
+    {
+        "CPF": "267.410.218-76",
+        "CNPJ": "",
+        "Placa": "GJR4D77",
+        "Seguradora": "Tokio Marine",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4020-4848",
+        "TelefoneOutrasLocalidades": "0800-285-4141",
+        "WhatsApp": "http://wa.me/5511995786546"
+    },
+    {
+        "CPF": "227.303.728-73",
+        "CNPJ": "",
+        "Placa": "FCY7B65",
+        "Seguradora": "Suhai",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "0800-3186-546",
+        "TelefoneOutrasLocalidades": "0800-3186-546",
+        "WhatsApp": "http://wa.me/551130030335"
+    },
+    {
+        "CPF": "187.493.838-50",
+        "CNPJ": "",
+        "Placa": "GIC9066",
+        "Seguradora": "Bradesco",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4004-2757",
+        "TelefoneOutrasLocalidades": "0800-701-2757",
+        "WhatsApp": "http://wa.me/551130031022"
+    },
+    {
+        "CPF": "037.445.334-92",
+        "CNPJ": "",
+        "Placa": "RUQ5E68",
+        "Seguradora": "Suhai",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "0800-3186-546",
+        "TelefoneOutrasLocalidades": "0800-3186-546",
+        "WhatsApp": "http://wa.me/551130030335"
+    },
+    {
+        "CPF": "363.207.688-00",
+        "CNPJ": "",
+        "Placa": "GJY2739",
+        "Seguradora": "Suhai",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "0800-3186-546",
+        "TelefoneOutrasLocalidades": "0800-3186-546",
+        "WhatsApp": "http://wa.me/551130030335"
+    },
+    {
+        "CPF": "288.201.998-07",
+        "CNPJ": "",
+        "Placa": "FVE2784",
+        "Seguradora": "Allianz",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4090-1110",
+        "TelefoneOutrasLocalidades": "0800-013-0700",
+        "WhatsApp": "http://wa.me/551140901444"
+    },
+    {
+        "CPF": "114.246.538-19",
+        "CNPJ": "",
+        "Placa": "EXT3A17",
+        "Seguradora": "Porto",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "3337-6786",
+        "TelefoneOutrasLocalidades": "0800-7270-800",
+        "WhatsApp": "http://wa.me/551130039303"
+    },
+    {
+        "CPF": "143.477.078-86",
+        "CNPJ": "",
+        "Placa": "GAL8011",
+        "Seguradora": "Allianz",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4090-1110",
+        "TelefoneOutrasLocalidades": "0800-013-0700",
+        "WhatsApp": "http://wa.me/551140901444"
+    },
+    {
+        "CPF": "179.926.438-60",
+        "CNPJ": "",
+        "Placa": "SXE2I03",
+        "Seguradora": "Porto",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "3337-6786",
+        "TelefoneOutrasLocalidades": "0800-7270-800",
+        "WhatsApp": "http://wa.me/551130039303"
+    },
+    {
+        "CPF": "316.039.038-10",
+        "CNPJ": "",
+        "Placa": "ABL9F24",
+        "Seguradora": "Bradesco",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4004-2757",
+        "TelefoneOutrasLocalidades": "0800-701-2757",
+        "WhatsApp": "http://wa.me/551130031022"
+    },
+    {
+        "CPF": "118.341.056-50",
+        "CNPJ": "",
+        "Placa": "PZJ8880",
+        "Seguradora": "Azul",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4004-3700",
+        "TelefoneOutrasLocalidades": "0800-7030-203",
+        "WhatsApp": "http://wa.me/552139062985"
+    },
+    {
+        "CPF": "266.909.788-00",
+        "CNPJ": "",
+        "Placa": "FRF5350",
+        "Seguradora": "Azul",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4004-3700",
+        "TelefoneOutrasLocalidades": "0800-7030-203",
+        "WhatsApp": "http://wa.me/552139062985"
+    },
+    {
+        "CPF": "269.829.728-01",
+        "CNPJ": "",
+        "Placa": "DKU0F84",
+        "Seguradora": "HDI",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "3003-5390",
+        "TelefoneOutrasLocalidades": "0800-4344-340",
+        "WhatsApp": "http://wa.me/5508007701608"
+    },
+    {
+        "CPF": "255.193.908-94",
+        "CNPJ": "",
+        "Placa": "CUT0D33",
+        "Seguradora": "Mitsui",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "0800-707-7883",
+        "TelefoneOutrasLocalidades": "0800-707-7883",
+        "WhatsApp": "http://wa.me/551131775700"
+    },
+    {
+        "CPF": "063.917.359-48",
+        "CNPJ": "",
+        "Placa": "SEV3F58",
+        "Seguradora": "HDI",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "3003-5390",
+        "TelefoneOutrasLocalidades": "0800-4344-340",
+        "WhatsApp": "http://wa.me/5508007701608"
+    },
+    {
+        "CPF": "269.170.878-07",
+        "CNPJ": "",
+        "Placa": "GFE7B15",
+        "Seguradora": "Azul",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4004-3700",
+        "TelefoneOutrasLocalidades": "0800-7030-203",
+        "WhatsApp": "http://wa.me/552139062985"
+    },
+    {
+        "CPF": "195.809.668-77",
+        "CNPJ": "",
+        "Placa": "RHK2F28",
+        "Seguradora": "Bradesco",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4004-2757",
+        "TelefoneOutrasLocalidades": "0800-701-2757",
+        "WhatsApp": "http://wa.me/551130031022"
+    },
+    {
+        "CPF": "091.614.987-00",
+        "CNPJ": "",
+        "Placa": "QUB5I76",
+        "Seguradora": "Tokio Marine",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4020-4848",
+        "TelefoneOutrasLocalidades": "0800-285-4141",
+        "WhatsApp": "http://wa.me/5511995786546"
+    },
+    {
+        "CPF": "025.330.471-71",
+        "CNPJ": "",
+        "Placa": "RKH1J34",
+        "Seguradora": "Sompo",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "11 3156-2990",
+        "TelefoneOutrasLocalidades": "0800-0162-727",
+        "WhatsApp": "-"
+    },
+    {
+        "CPF": "195.769.818-75",
+        "CNPJ": "",
+        "Placa": "ETO7I12",
+        "Seguradora": "Allianz",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4090-1110",
+        "TelefoneOutrasLocalidades": "0800-013-0700",
+        "WhatsApp": "http://wa.me/551140901444"
+    },
+    {
+        "CPF": "195.782.578-21",
+        "CNPJ": "",
+        "Placa": "FRK4H68",
+        "Seguradora": "Tokio Marine",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4020-4848",
+        "TelefoneOutrasLocalidades": "0800-285-4141",
+        "WhatsApp": "http://wa.me/5511995786546"
+    },
+    {
+        "CPF": "295.089.268-05",
+        "CNPJ": "",
+        "Placa": "DUM6205",
+        "Seguradora": "Suhai",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "0800-3186-546",
+        "TelefoneOutrasLocalidades": "0800-3186-546",
+        "WhatsApp": "http://wa.me/551130030335"
+    },
+    {
+        "CPF": "275.183.628-30",
+        "CNPJ": "",
+        "Placa": "EMQ9983",
+        "Seguradora": "Allianz",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4090-1110",
+        "TelefoneOutrasLocalidades": "0800-013-0700",
+        "WhatsApp": "http://wa.me/551140901444"
+    },
+    {
+        "CPF": "304.378.218-62",
+        "CNPJ": "",
+        "Placa": "FDE0148",
+        "Seguradora": "Mitsui",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "0800-707-7883",
+        "TelefoneOutrasLocalidades": "0800-707-7883",
+        "WhatsApp": "http://wa.me/551131775700"
+    },
+    {
+        "CPF": "349.615.498-51",
+        "CNPJ": "",
+        "Placa": "EYX9G52",
+        "Seguradora": "Oceanica",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "0800-960-9933, 0800-031-8372 ou 0800-591-0912",
+        "TelefoneOutrasLocalidades": "0800-960-9933, 0800-031-8372 ou 0800-591-0912",
+        "WhatsApp": "-"
+    },
+    {
+        "CPF": "461.146.706-63",
+        "CNPJ": "",
+        "Placa": "AYQ1D60",
+        "Seguradora": "HDI",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "3003-5390",
+        "TelefoneOutrasLocalidades": "0800-4344-340",
+        "WhatsApp": "http://wa.me/5508007701608"
+    },
+    {
+        "CPF": "016.695.628-75",
+        "CNPJ": "",
+        "Placa": "EPN3920",
+        "Seguradora": "Sompo",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "11 3156-2990",
+        "TelefoneOutrasLocalidades": "0800-0162-727",
+        "WhatsApp": "-"
+    },
+    {
+        "CPF": "401.649.328-52",
+        "CNPJ": "",
+        "Placa": "GCC7E37",
+        "Seguradora": "Suhai",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "0800-3186-546",
+        "TelefoneOutrasLocalidades": "0800-3186-546",
+        "WhatsApp": "http://wa.me/551130030335"
+    },
+    {
+        "CPF": "045.855.393-01",
+        "CNPJ": "",
+        "Placa": "OSN4J60",
+        "Seguradora": "Azul",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4004-3700",
+        "TelefoneOutrasLocalidades": "0800-7030-203",
+        "WhatsApp": "http://wa.me/552139062985"
+    },
+    {
+        "CPF": "180.073.238-48",
+        "CNPJ": "",
+        "Placa": "FCE0G71",
+        "Seguradora": "Porto",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "3337-6786",
+        "TelefoneOutrasLocalidades": "0800-7270-800",
+        "WhatsApp": "http://wa.me/551130039303"
+    },
+    {
+        "CPF": "293.710.838-59",
+        "CNPJ": "",
+        "Placa": "GBI7873",
+        "Seguradora": "Porto",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "3337-6786",
+        "TelefoneOutrasLocalidades": "0800-7270-800",
+        "WhatsApp": "http://wa.me/551130039303"
+    },
+    {
+        "CPF": "100.748.868-94",
+        "CNPJ": "",
+        "Placa": "FGV2687",
+        "Seguradora": "Porto",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "3337-6786",
+        "TelefoneOutrasLocalidades": "0800-7270-800",
+        "WhatsApp": "http://wa.me/551130039303"
+    },
+    {
+        "CPF": "551.428.505-72",
+        "CNPJ": "",
+        "Placa": "EQZ8J14",
+        "Seguradora": "Bradesco",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4004-2757",
+        "TelefoneOutrasLocalidades": "0800-701-2757",
+        "WhatsApp": "http://wa.me/551130031022"
+    },
+    {
+        "CPF": "362.989.018-09",
+        "CNPJ": "",
+        "Placa": "EEL8807",
+        "Seguradora": "Azul",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4004-3700",
+        "TelefoneOutrasLocalidades": "0800-7030-203",
+        "WhatsApp": "http://wa.me/552139062985"
+    },
+    {
+        "CPF": "865.167.448-15",
+        "CNPJ": "",
+        "Placa": "FFM3668",
+        "Seguradora": "Allianz",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4090-1110",
+        "TelefoneOutrasLocalidades": "0800-013-0700",
+        "WhatsApp": "http://wa.me/551140901444"
+    },
+    {
+        "CPF": "179.512.938-73",
+        "CNPJ": "",
+        "Placa": "-",
+        "Seguradora": "Allianz",
+        "Modalidade ": "RESIDENCIAL",
+        "TelefoneCapitais": "4090-1110",
+        "TelefoneOutrasLocalidades": "0800-013-0700",
+        "WhatsApp": "http://wa.me/551140901444"
+    },
+    {
+        "CPF": "767.537.008-20",
+        "CNPJ": "",
+        "Placa": "DZM6H57",
+        "Seguradora": "Allianz",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4090-1110",
+        "TelefoneOutrasLocalidades": "0800-013-0700",
+        "WhatsApp": "http://wa.me/551140901444"
+    },
+    {
+        "CPF": "070.408.437-65",
+        "CNPJ": "",
+        "Placa": "KXI3952",
+        "Seguradora": "Allianz",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4090-1110",
+        "TelefoneOutrasLocalidades": "0800-013-0700",
+        "WhatsApp": "http://wa.me/551140901444"
+    },
+    {
+        "CPF": "215.523.868-13",
+        "CNPJ": "",
+        "Placa": "STT5E33",
+        "Seguradora": "Tokio Marine",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4020-4848",
+        "TelefoneOutrasLocalidades": "0800-285-4141",
+        "WhatsApp": "http://wa.me/5511995786546"
+    },
+    {
+        "CPF": "013.420.978-82",
+        "CNPJ": "",
+        "Placa": "EBD1678",
+        "Seguradora": "Suhai",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "0800-3186-546",
+        "TelefoneOutrasLocalidades": "0800-3186-546",
+        "WhatsApp": "http://wa.me/551130030335"
+    },
+    {
+        "CPF": "355.821.968-62",
+        "CNPJ": "",
+        "Placa": "EYH4A89",
+        "Seguradora": "Suhai",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "0800-3186-546",
+        "TelefoneOutrasLocalidades": "0800-3186-546",
+        "WhatsApp": "http://wa.me/551130030335"
+    },
+    {
+        "CPF": "264.848.588-02",
+        "CNPJ": "",
+        "Placa": "DSS9I14",
+        "Seguradora": "Tokio Marine",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4020-4848",
+        "TelefoneOutrasLocalidades": "0800-285-4141",
+        "WhatsApp": "http://wa.me/5511995786546"
+    },
+    {
+        "CPF": "434.812.726-34",
+        "CNPJ": "",
+        "Placa": "EFP3863",
+        "Seguradora": "Porto",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "3337-6786",
+        "TelefoneOutrasLocalidades": "0800-7270-800",
+        "WhatsApp": "http://wa.me/551130039303"
+    },
+    {
+        "CPF": "039.793.098-43",
+        "CNPJ": "",
+        "Placa": "DWN0365",
+        "Seguradora": "Porto",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "3337-6786",
+        "TelefoneOutrasLocalidades": "0800-7270-800",
+        "WhatsApp": "http://wa.me/551130039303"
+    },
+    {
+        "CPF": "005.156.021-67",
+        "CNPJ": "",
+        "Placa": "RES4D76",
+        "Seguradora": "Tokio Marine",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4020-4848",
+        "TelefoneOutrasLocalidades": "0800-285-4141",
+        "WhatsApp": "http://wa.me/5511995786546"
+    },
+    {
+        "CPF": "",
+        "CNPJ": "21.305.541/0001-06",
+        "Placa": "FIF9E28",
+        "Seguradora": "Bradesco",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4004-2757",
+        "TelefoneOutrasLocalidades": "0800-701-2757",
+        "WhatsApp": "http://wa.me/551130031022"
+    },
+    {
+        "CPF": "355.296.238-75",
+        "CNPJ": "",
+        "Placa": "EQF3D92",
+        "Seguradora": "Allianz",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4090-1110",
+        "TelefoneOutrasLocalidades": "0800-013-0700",
+        "WhatsApp": "http://wa.me/551140901444"
+    },
+    {
+        "CPF": "034.743.558-05",
+        "CNPJ": "",
+        "Placa": "DUC4443",
+        "Seguradora": "Porto",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "3337-6786",
+        "TelefoneOutrasLocalidades": "0800-7270-800",
+        "WhatsApp": "http://wa.me/551130039303"
+    },
+    {
+        "CPF": "392.201.988-94",
+        "CNPJ": "",
+        "Placa": "FNV5B16",
+        "Seguradora": "Allianz",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4090-1110",
+        "TelefoneOutrasLocalidades": "0800-013-0700",
+        "WhatsApp": "http://wa.me/551140901444"
+    },
+    {
+        "CPF": "092.420.188-64",
+        "CNPJ": "",
+        "Placa": "FZD0G62",
+        "Seguradora": "Bradesco",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4004-2757",
+        "TelefoneOutrasLocalidades": "0800-701-2757",
+        "WhatsApp": "http://wa.me/551130031022"
+    },
+    {
+        "CPF": "260.460.308-03",
+        "CNPJ": "",
+        "Placa": "FRM7363",
+        "Seguradora": "Porto",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "3337-6786",
+        "TelefoneOutrasLocalidades": "0800-7270-800",
+        "WhatsApp": "http://wa.me/551130039303"
+    },
+    {
+        "CPF": "128.419.238-51",
+        "CNPJ": "",
+        "Placa": "BZA8D09",
+        "Seguradora": "Mapfre",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4004-0101",
+        "TelefoneOutrasLocalidades": "0800-775-4545",
+        "WhatsApp": "http://wa.me/551140040101"
+    },
+    {
+        "CPF": "130.725.868-96",
+        "CNPJ": "",
+        "Placa": "HKR4889",
+        "Seguradora": "Allianz",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4090-1110",
+        "TelefoneOutrasLocalidades": "0800-013-0700",
+        "WhatsApp": "http://wa.me/551140901444"
+    },
+    {
+        "CPF": "257.119.768-18",
+        "CNPJ": "",
+        "Placa": "FQP0736",
+        "Seguradora": "HDI",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "3003-5390",
+        "TelefoneOutrasLocalidades": "0800-4344-340",
+        "WhatsApp": "http://wa.me/5508007701608"
+    },
+    {
+        "CPF": "385.643.878-59",
+        "CNPJ": "",
+        "Placa": "SUR2E43",
+        "Seguradora": "Mapfre",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4004-0101",
+        "TelefoneOutrasLocalidades": "0800-775-4545",
+        "WhatsApp": "http://wa.me/551140040101"
+    },
+    {
+        "CPF": "",
+        "CNPJ": "35.152.062/0001-01",
+        "Placa": "FCC2J51",
+        "Seguradora": "Tokio Marine",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4020-4848",
+        "TelefoneOutrasLocalidades": "0800-285-4141",
+        "WhatsApp": "http://wa.me/5511995786546"
+    },
+    {
+        "CPF": "292.082.858-47",
+        "CNPJ": "",
+        "Placa": "CUK6970",
+        "Seguradora": "Tokio Marine",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4020-4848",
+        "TelefoneOutrasLocalidades": "0800-285-4141",
+        "WhatsApp": "http://wa.me/5511995786546"
+    },
+    {
+        "CPF": "012.449.048-48",
+        "CNPJ": "",
+        "Placa": "ELI5G63",
+        "Seguradora": "Zurich",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4020-4848",
+        "TelefoneOutrasLocalidades": "0800-285-4141",
+        "WhatsApp": "http://wa.me/551128902121"
+    },
+    {
+        "CPF": "",
+        "CNPJ": "47.954.662/0001-64",
+        "Placa": "-",
+        "Seguradora": "Tokio Marine",
+        "Modalidade ": "FROTA",
+        "TelefoneCapitais": "4020-4848",
+        "TelefoneOutrasLocalidades": "0800-285-4141",
+        "WhatsApp": "http://wa.me/5511995786546"
+    },
+    {
+        "CPF": "266.092.818-58",
+        "CNPJ": "",
+        "Placa": "FRQ5127",
+        "Seguradora": "HDI",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "3003-5390",
+        "TelefoneOutrasLocalidades": "0800-4344-340",
+        "WhatsApp": "http://wa.me/5508007701608"
+    },
+    {
+        "CPF": "",
+        "CNPJ": "01.097.550/0001-33",
+        "Placa": "GGU7651",
+        "Seguradora": "Tokio Marine",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4020-4848",
+        "TelefoneOutrasLocalidades": "0800-285-4141",
+        "WhatsApp": "http://wa.me/5511995786546"
+    },
+    {
+        "CPF": "299.913.988-80",
+        "CNPJ": "",
+        "Placa": "EMX8C02",
+        "Seguradora": "Bradesco",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4004-2757",
+        "TelefoneOutrasLocalidades": "0800-701-2757",
+        "WhatsApp": "http://wa.me/551130031022"
+    },
+    {
+        "CPF": "",
+        "CNPJ": "23.052.952/0001-54",
+        "Placa": "FYR0E88",
+        "Seguradora": "HDI",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "3003-5390",
+        "TelefoneOutrasLocalidades": "0800-4344-340",
+        "WhatsApp": "http://wa.me/5508007701608"
+    },
+    {
+        "CPF": "384.926.118-20",
+        "CNPJ": "",
+        "Placa": "GAE1403",
+        "Seguradora": "Azul",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4004-3700",
+        "TelefoneOutrasLocalidades": "0800-7030-203",
+        "WhatsApp": "http://wa.me/552139062985"
+    },
+    {
+        "CPF": "047.264.458-04",
+        "CNPJ": "",
+        "Placa": "GKA8B06",
+        "Seguradora": "Tokio Marine",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4020-4848",
+        "TelefoneOutrasLocalidades": "0800-285-4141",
+        "WhatsApp": "http://wa.me/5511995786546"
+    },
+    {
+        "CPF": "189.651.818-44",
+        "CNPJ": "",
+        "Placa": "EFM0435",
+        "Seguradora": "Porto",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "3337-6786",
+        "TelefoneOutrasLocalidades": "0800-7270-800",
+        "WhatsApp": "http://wa.me/551130039303"
+    },
+    {
+        "CPF": "409.295.878-12",
+        "CNPJ": "",
+        "Placa": "EUJ4698",
+        "Seguradora": "Porto",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "3337-6786",
+        "TelefoneOutrasLocalidades": "0800-7270-800",
+        "WhatsApp": "http://wa.me/551130039303"
+    },
+    {
+        "CPF": "392.202.008-99",
+        "CNPJ": "",
+        "Placa": "GHW1H94",
+        "Seguradora": "Zurich",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4020-4848",
+        "TelefoneOutrasLocalidades": "0800-285-4141",
+        "WhatsApp": "http://wa.me/551128902121"
+    },
+    {
+        "CPF": "471.920.398-10",
+        "CNPJ": "",
+        "Placa": "OYU2B78",
+        "Seguradora": "Azul",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4004-3700",
+        "TelefoneOutrasLocalidades": "0800-7030-203",
+        "WhatsApp": "http://wa.me/552139062985"
+    },
+    {
+        "CPF": "068.113.936-61",
+        "CNPJ": "",
+        "Placa": "OQP1951",
+        "Seguradora": "Tokio Marine",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4020-4848",
+        "TelefoneOutrasLocalidades": "0800-285-4141",
+        "WhatsApp": "http://wa.me/5511995786546"
+    },
+    {
+        "CPF": "128.627.258-03",
+        "CNPJ": "",
+        "Placa": "QPH6078",
+        "Seguradora": "Allianz",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4090-1110",
+        "TelefoneOutrasLocalidades": "0800-013-0700",
+        "WhatsApp": "http://wa.me/551140901444"
+    },
+    {
+        "CPF": "092.508.402-68",
+        "CNPJ": "",
+        "Placa": "SJN7F81",
+        "Seguradora": "Allianz",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4090-1110",
+        "TelefoneOutrasLocalidades": "0800-013-0700",
+        "WhatsApp": "http://wa.me/551140901444"
+    },
+    {
+        "CPF": "414.552.328-82",
+        "CNPJ": "",
+        "Placa": "EBR4749",
+        "Seguradora": "Suhai",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "0800-3186-546",
+        "TelefoneOutrasLocalidades": "0800-3186-546",
+        "WhatsApp": "http://wa.me/551130030335"
+    },
+    {
+        "CPF": "105.417.268-46",
+        "CNPJ": "",
+        "Placa": "QGO1B44",
+        "Seguradora": "Tokio Marine",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4020-4848",
+        "TelefoneOutrasLocalidades": "0800-285-4141",
+        "WhatsApp": "http://wa.me/5511995786546"
+    },
+    {
+        "CPF": "033.079.616-08",
+        "CNPJ": "",
+        "Placa": "RNG5I92",
+        "Seguradora": "Allianz",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4090-1110",
+        "TelefoneOutrasLocalidades": "0800-013-0700",
+        "WhatsApp": "http://wa.me/551140901444"
+    },
+    {
+        "CPF": "466.779.808-47",
+        "CNPJ": "",
+        "Placa": "GBP5E34",
+        "Seguradora": "Suhai",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "0800-3186-546",
+        "TelefoneOutrasLocalidades": "0800-3186-546",
+        "WhatsApp": "http://wa.me/551130030335"
+    },
+    {
+        "CPF": "179.512.938-73",
+        "CNPJ": "",
+        "Placa": "RTK4I51",
+        "Seguradora": "Bradesco",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4004-2757",
+        "TelefoneOutrasLocalidades": "0800-701-2757",
+        "WhatsApp": "http://wa.me/551130031022"
+    },
+    {
+        "CPF": "121.257.255-68",
+        "CNPJ": "",
+        "Placa": "EVF5881",
+        "Seguradora": "Azul",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4004-3700",
+        "TelefoneOutrasLocalidades": "0800-7030-203",
+        "WhatsApp": "http://wa.me/552139062985"
+    },
+    {
+        "CPF": "",
+        "CNPJ": "01.457.203/0001-74",
+        "Placa": "QPQ8873",
+        "Seguradora": "Tokio Marine",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4020-4848",
+        "TelefoneOutrasLocalidades": "0800-285-4141",
+        "WhatsApp": "http://wa.me/5511995786546"
+    },
+    {
+        "CPF": "481.481.938-27",
+        "CNPJ": "",
+        "Placa": "PWO8664",
+        "Seguradora": "Tokio Marine",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4020-4848",
+        "TelefoneOutrasLocalidades": "0800-285-4141",
+        "WhatsApp": "http://wa.me/5511995786546"
+    },
+    {
+        "CPF": "397.150.348-96",
+        "CNPJ": "",
+        "Placa": "FVQ1G13",
+        "Seguradora": "Tokio Marine",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4020-4848",
+        "TelefoneOutrasLocalidades": "0800-285-4141",
+        "WhatsApp": "http://wa.me/5511995786546"
+    },
+    {
+        "CPF": "435.053.968-93",
+        "CNPJ": "",
+        "Placa": "DYB5251",
+        "Seguradora": "Allianz",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4090-1110",
+        "TelefoneOutrasLocalidades": "0800-013-0700",
+        "WhatsApp": "http://wa.me/551140901444"
+    },
+    {
+        "CPF": "105.487.935-49",
+        "CNPJ": "",
+        "Placa": "PDW3631",
+        "Seguradora": "Porto",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "3337-6786",
+        "TelefoneOutrasLocalidades": "0800-7270-800",
+        "WhatsApp": "http://wa.me/551130039303"
+    },
+    {
+        "CPF": "092.255.718-79",
+        "CNPJ": "",
+        "Placa": "BSZ2H46",
+        "Seguradora": "Porto",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "3337-6786",
+        "TelefoneOutrasLocalidades": "0800-7270-800",
+        "WhatsApp": "http://wa.me/551130039303"
+    },
+    {
+        "CPF": "052.646.398-84",
+        "CNPJ": "",
+        "Placa": "FIA0496",
+        "Seguradora": "Allianz",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4090-1110",
+        "TelefoneOutrasLocalidades": "0800-013-0700",
+        "WhatsApp": "http://wa.me/551140901444"
+    },
+    {
+        "CPF": "019.093.057-82",
+        "CNPJ": "",
+        "Placa": "KXQ2F09",
+        "Seguradora": "Tokio Marine",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4020-4848",
+        "TelefoneOutrasLocalidades": "0800-285-4141",
+        "WhatsApp": "http://wa.me/5511995786546"
+    },
+    {
+        "CPF": "219.886.398-75",
+        "CNPJ": "",
+        "Placa": "BSS7887",
+        "Seguradora": "Porto",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "3337-6786",
+        "TelefoneOutrasLocalidades": "0800-7270-800",
+        "WhatsApp": "http://wa.me/551130039303"
+    },
+    {
+        "CPF": "108.112.298-66",
+        "CNPJ": "",
+        "Placa": "BVT0F42",
+        "Seguradora": "Bradesco",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4004-2757",
+        "TelefoneOutrasLocalidades": "0800-701-2757",
+        "WhatsApp": "http://wa.me/551130031022"
+    },
+    {
+        "CPF": "325.474.298-29",
+        "CNPJ": "",
+        "Placa": "STE4F15",
+        "Seguradora": "Porto",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "3337-6786",
+        "TelefoneOutrasLocalidades": "0800-7270-800",
+        "WhatsApp": "http://wa.me/551130039303"
+    },
+    {
+        "CPF": "",
+        "CNPJ": "33.722.392/0001-51",
+        "Placa": "FXU4208",
+        "Seguradora": "Allianz",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4090-1110",
+        "TelefoneOutrasLocalidades": "0800-013-0700",
+        "WhatsApp": "http://wa.me/551140901444"
+    },
+    {
+        "CPF": "",
+        "CNPJ": "33.722.392/0001-51",
+        "Placa": "FZM1473",
+        "Seguradora": "Mapfre",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4004-0101",
+        "TelefoneOutrasLocalidades": "0800-775-4545",
+        "WhatsApp": "http://wa.me/551140040101"
+    },
+    {
+        "CPF": "396.316.708-48",
+        "CNPJ": "",
+        "Placa": "DFR3J45",
+        "Seguradora": "Suhai",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "0800-3186-546",
+        "TelefoneOutrasLocalidades": "0800-3186-546",
+        "WhatsApp": "http://wa.me/551130030335"
+    },
+    {
+        "CPF": "104.370.867-71",
+        "CNPJ": "",
+        "Placa": "KRL4E61",
+        "Seguradora": "Zurich",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4020-4848",
+        "TelefoneOutrasLocalidades": "0800-285-4141",
+        "WhatsApp": "http://wa.me/551128902121"
+    },
+    {
+        "CPF": "104.370.867-71",
+        "CNPJ": "",
+        "Placa": "SRM3B96",
+        "Seguradora": "Zurich",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4020-4848",
+        "TelefoneOutrasLocalidades": "0800-285-4141",
+        "WhatsApp": "http://wa.me/551128902121"
+    },
+    {
+        "CPF": "221.906.908-70",
+        "CNPJ": "",
+        "Placa": "GIA0254",
+        "Seguradora": "Porto",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "3337-6786",
+        "TelefoneOutrasLocalidades": "0800-7270-800",
+        "WhatsApp": "http://wa.me/551130039303"
+    },
+    {
+        "CPF": "353.666.938-70",
+        "CNPJ": "",
+        "Placa": "EDN0244",
+        "Seguradora": "Allianz",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4090-1110",
+        "TelefoneOutrasLocalidades": "0800-013-0700",
+        "WhatsApp": "http://wa.me/551140901444"
+    },
+    {
+        "CPF": "528.469.328-08",
+        "CNPJ": "",
+        "Placa": "DDA7C00",
+        "Seguradora": "Suhai",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "0800-3186-546",
+        "TelefoneOutrasLocalidades": "0800-3186-546",
+        "WhatsApp": "http://wa.me/551130030335"
+    },
+    {
+        "CPF": "005.299.802-90",
+        "CNPJ": "",
+        "Placa": "FNK0C24",
+        "Seguradora": "Tokio Marine",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4020-4848",
+        "TelefoneOutrasLocalidades": "0800-285-4141",
+        "WhatsApp": "http://wa.me/5511995786546"
+    },
+    {
+        "CPF": "298.596.488-16",
+        "CNPJ": "",
+        "Placa": "PYI6103",
+        "Seguradora": "Oceanica",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "0800-960-9933, 0800-031-8372 ou 0800-591-0912",
+        "TelefoneOutrasLocalidades": "0800-960-9933, 0800-031-8372 ou 0800-591-0912",
+        "WhatsApp": "-"
+    },
+    {
+        "CPF": "164.941.968-61",
+        "CNPJ": "",
+        "Placa": "FQC3A36",
+        "Seguradora": "Suhai",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "0800-3186-546",
+        "TelefoneOutrasLocalidades": "0800-3186-546",
+        "WhatsApp": "http://wa.me/551130030335"
+    },
+    {
+        "CPF": "354.772.928-90",
+        "CNPJ": "",
+        "Placa": "EFB3F83",
+        "Seguradora": "Aliro",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "0800-7701-318",
+        "TelefoneOutrasLocalidades": "0800-7701-318",
+        "WhatsApp": "http://wa.me/551132061414"
+    },
+    {
+        "CPF": "",
+        "CNPJ": "00.398.377/0001-40",
+        "Placa": "FCF2757",
+        "Seguradora": "Mitsui",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "0800-707-7883",
+        "TelefoneOutrasLocalidades": "0800-707-7883",
+        "WhatsApp": "http://wa.me/551131775700"
+    },
+    {
+        "CPF": "374.164.898-14",
+        "CNPJ": "",
+        "Placa": "FHZ3J86",
+        "Seguradora": "Mapfre",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4004-0101",
+        "TelefoneOutrasLocalidades": "0800-775-4545",
+        "WhatsApp": "http://wa.me/551140040101"
+    },
+    {
+        "CPF": "269.829.728-01",
+        "CNPJ": "",
+        "Placa": "FDB6J18",
+        "Seguradora": "Bradesco",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4004-2757",
+        "TelefoneOutrasLocalidades": "0800-701-2757",
+        "WhatsApp": "http://wa.me/551130031022"
+    },
+    {
+        "CPF": "099.896.167-10",
+        "CNPJ": "",
+        "Placa": "LPL4C14",
+        "Seguradora": "Suhai",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "0800-3186-546",
+        "TelefoneOutrasLocalidades": "0800-3186-546",
+        "WhatsApp": "http://wa.me/551130030335"
+    },
+    {
+        "CPF": "176.395.378-51",
+        "CNPJ": "",
+        "Placa": "GIB9413",
+        "Seguradora": "Tokio Marine",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4020-4848",
+        "TelefoneOutrasLocalidades": "0800-285-4141",
+        "WhatsApp": "http://wa.me/5511995786546"
+    },
+    {
+        "CPF": "312.557.578-84",
+        "CNPJ": "",
+        "Placa": "FZU8D88",
+        "Seguradora": "Tokio Marine",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4020-4848",
+        "TelefoneOutrasLocalidades": "0800-285-4141",
+        "WhatsApp": "http://wa.me/5511995786546"
+    },
+    {
+        "CPF": "786.150.978-87",
+        "CNPJ": "",
+        "Placa": "CDS0E67",
+        "Seguradora": "Allianz",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4090-1110",
+        "TelefoneOutrasLocalidades": "0800-013-0700",
+        "WhatsApp": "http://wa.me/551140901444"
+    },
+    {
+        "CPF": "",
+        "CNPJ": "47.274.200/0001-04",
+        "Placa": "OLX0C20",
+        "Seguradora": "Suhai",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "0800-3186-546",
+        "TelefoneOutrasLocalidades": "0800-3186-546",
+        "WhatsApp": "http://wa.me/551130030335"
+    },
+    {
+        "CPF": "279.861.008-77",
+        "CNPJ": "",
+        "Placa": "FWY7J23",
+        "Seguradora": "Tokio Marine",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4020-4848",
+        "TelefoneOutrasLocalidades": "0800-285-4141",
+        "WhatsApp": "http://wa.me/5511995786546"
+    },
+    {
+        "CPF": "215.743.858-01",
+        "CNPJ": "",
+        "Placa": "LSB9B02",
+        "Seguradora": "Azul",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4004-3700",
+        "TelefoneOutrasLocalidades": "0800-7030-203",
+        "WhatsApp": "http://wa.me/552139062985"
+    },
+    {
+        "CPF": "012.227.877-17",
+        "CNPJ": "",
+        "Placa": "GFO3H13",
+        "Seguradora": "Allianz",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4090-1110",
+        "TelefoneOutrasLocalidades": "0800-013-0700",
+        "WhatsApp": "http://wa.me/551140901444"
+    },
+    {
+        "CPF": "378.444.538-18",
+        "CNPJ": "",
+        "Placa": "FNZ6C69",
+        "Seguradora": "Azul",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4004-3700",
+        "TelefoneOutrasLocalidades": "0800-7030-203",
+        "WhatsApp": "http://wa.me/552139062985"
+    },
+    {
+        "CPF": "010.487.178-44",
+        "CNPJ": "",
+        "Placa": "EBS9144",
+        "Seguradora": "Azul",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4004-3700",
+        "TelefoneOutrasLocalidades": "0800-7030-203",
+        "WhatsApp": "http://wa.me/552139062985"
+    },
+    {
+        "CPF": "528.583.858-40",
+        "CNPJ": "",
+        "Placa": "QVH9C66",
+        "Seguradora": "Aliro",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "0800-7701-318",
+        "TelefoneOutrasLocalidades": "0800-7701-318",
+        "WhatsApp": "http://wa.me/551132061414"
+    },
+    {
+        "CPF": "028.833.311-03",
+        "CNPJ": "",
+        "Placa": "RRM6B77",
+        "Seguradora": "Porto",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "3337-6786",
+        "TelefoneOutrasLocalidades": "0800-7270-800",
+        "WhatsApp": "http://wa.me/551130039303"
+    },
+    {
+        "CPF": "374.432.673-04",
+        "CNPJ": "",
+        "Placa": "FBK4H39",
+        "Seguradora": "Suhai",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "0800-3186-546",
+        "TelefoneOutrasLocalidades": "0800-3186-546",
+        "WhatsApp": "http://wa.me/551130030335"
+    },
+    {
+        "CPF": "037.966.618-90",
+        "CNPJ": "",
+        "Placa": "FYB6988",
+        "Seguradora": "Porto",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "3337-6786",
+        "TelefoneOutrasLocalidades": "0800-7270-800",
+        "WhatsApp": "http://wa.me/551130039303"
+    },
+    {
+        "CPF": "047.424.089-42",
+        "CNPJ": "",
+        "Placa": "AUX6E57",
+        "Seguradora": "Azul",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4004-3700",
+        "TelefoneOutrasLocalidades": "0800-7030-203",
+        "WhatsApp": "http://wa.me/552139062985"
+    },
+    {
+        "CPF": "782.930.305-34",
+        "CNPJ": "",
+        "Placa": "FNU2609",
+        "Seguradora": "Azul",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4004-3700",
+        "TelefoneOutrasLocalidades": "0800-7030-203",
+        "WhatsApp": "http://wa.me/552139062985"
+    },
+    {
+        "CPF": "320.359.638-50",
+        "CNPJ": "",
+        "Placa": "EXR0B47",
+        "Seguradora": "Porto",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "3337-6786",
+        "TelefoneOutrasLocalidades": "0800-7270-800",
+        "WhatsApp": "http://wa.me/551130039303"
+    },
+    {
+        "CPF": "302.992.528-50",
+        "CNPJ": "",
+        "Placa": "DIY8775",
+        "Seguradora": "Allianz",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4090-1110",
+        "TelefoneOutrasLocalidades": "0800-013-0700",
+        "WhatsApp": "http://wa.me/551140901444"
+    },
+    {
+        "CPF": "",
+        "CNPJ": "34.332.245/0001-38",
+        "Placa": "-",
+        "Seguradora": "Tokio Marine",
+        "Modalidade ": "RESIDENCIAL",
+        "TelefoneCapitais": "4020-4848",
+        "TelefoneOutrasLocalidades": "0800-285-4141",
+        "WhatsApp": "http://wa.me/5511995786546"
+    },
+    {
+        "CPF": "142.300.498-11",
+        "CNPJ": "",
+        "Placa": "OQJ7941",
+        "Seguradora": "Sompo",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "11 3156-2990",
+        "TelefoneOutrasLocalidades": "0800-0162-727",
+        "WhatsApp": "-"
+    },
+    {
+        "CPF": "392.987.948-43",
+        "CNPJ": "",
+        "Placa": "SWJ5F79",
+        "Seguradora": "Suhai",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "0800-3186-546",
+        "TelefoneOutrasLocalidades": "0800-3186-546",
+        "WhatsApp": "http://wa.me/551130030335"
+    },
+    {
+        "CPF": "060.248.258-54",
+        "CNPJ": "",
+        "Placa": "-",
+        "Seguradora": "Bradesco",
+        "Modalidade ": "RESIDENCIAL",
+        "TelefoneCapitais": "4004-2757",
+        "TelefoneOutrasLocalidades": "0800-701-2757",
+        "WhatsApp": "http://wa.me/551130031022"
+    },
+    {
+        "CPF": "284.416.008-56",
+        "CNPJ": "",
+        "Placa": "-",
+        "Seguradora": "Bradesco",
+        "Modalidade ": "RESIDENCIAL",
+        "TelefoneCapitais": "4004-2757",
+        "TelefoneOutrasLocalidades": "0800-701-2757",
+        "WhatsApp": "http://wa.me/551130031022"
+    },
+    {
+        "CPF": "388.137.098-62",
+        "CNPJ": "",
+        "Placa": "FPI9189",
+        "Seguradora": "Tokio Marine",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4020-4848",
+        "TelefoneOutrasLocalidades": "0800-285-4141",
+        "WhatsApp": "http://wa.me/5511995786546"
+    },
+    {
+        "CPF": "319.940.218-61",
+        "CNPJ": "",
+        "Placa": "EMT7830",
+        "Seguradora": "Tokio Marine",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4020-4848",
+        "TelefoneOutrasLocalidades": "0800-285-4141",
+        "WhatsApp": "http://wa.me/5511995786546"
+    },
+    {
+        "CPF": "023.021.839-32",
+        "CNPJ": "",
+        "Placa": "BCL4695",
+        "Seguradora": "Tokio Marine",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4020-4848",
+        "TelefoneOutrasLocalidades": "0800-285-4141",
+        "WhatsApp": "http://wa.me/5511995786546"
+    },
+    {
+        "CPF": "131.795.638-93",
+        "CNPJ": "",
+        "Placa": "GHS7C65",
+        "Seguradora": "Suhai",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "0800-3186-546",
+        "TelefoneOutrasLocalidades": "0800-3186-546",
+        "WhatsApp": "http://wa.me/551130030335"
+    },
+    {
+        "CPF": "467.384.978-73",
+        "CNPJ": "",
+        "Placa": "GGA8A04",
+        "Seguradora": "Suhai",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "0800-3186-546",
+        "TelefoneOutrasLocalidades": "0800-3186-546",
+        "WhatsApp": "http://wa.me/551130030335"
+    },
+    {
+        "CPF": "307.867.078-36",
+        "CNPJ": "",
+        "Placa": "-",
+        "Seguradora": "Bradesco",
+        "Modalidade ": "RESIDENCIAL",
+        "TelefoneCapitais": "4004-2757",
+        "TelefoneOutrasLocalidades": "0800-701-2757",
+        "WhatsApp": "http://wa.me/551130031022"
+    },
+    {
+        "CPF": "307.867.078-36",
+        "CNPJ": "",
+        "Placa": "FWH3I22",
+        "Seguradora": "Suhai",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "0800-3186-546",
+        "TelefoneOutrasLocalidades": "0800-3186-546",
+        "WhatsApp": "http://wa.me/551130030335"
+    },
+    {
+        "CPF": "460.676.108-33",
+        "CNPJ": "",
+        "Placa": "GKG1553",
+        "Seguradora": "Azul",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4004-3700",
+        "TelefoneOutrasLocalidades": "0800-7030-203",
+        "WhatsApp": "http://wa.me/552139062985"
+    },
+    {
+        "CPF": "403.077.398-21",
+        "CNPJ": "",
+        "Placa": "FXY7B28",
+        "Seguradora": "Tokio Marine",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4020-4848",
+        "TelefoneOutrasLocalidades": "0800-285-4141",
+        "WhatsApp": "http://wa.me/5511995786546"
+    },
+    {
+        "CPF": "044.386.601-57",
+        "CNPJ": "",
+        "Placa": "DTL2B89",
+        "Seguradora": "Suhai",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "0800-3186-546",
+        "TelefoneOutrasLocalidades": "0800-3186-546",
+        "WhatsApp": "http://wa.me/551130030335"
+    },
+    {
+        "CPF": "035.643.568-78",
+        "CNPJ": "",
+        "Placa": "QOR6J81 ",
+        "Seguradora": "Tokio Marine",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4020-4848",
+        "TelefoneOutrasLocalidades": "0800-285-4141",
+        "WhatsApp": "http://wa.me/5511995786546"
+    },
+    {
+        "CPF": "346.634.868-43",
+        "CNPJ": "",
+        "Placa": "FXM7I39",
+        "Seguradora": "Azul",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4004-3700",
+        "TelefoneOutrasLocalidades": "0800-7030-203",
+        "WhatsApp": "http://wa.me/552139062985"
+    },
+    {
+        "CPF": "903.013.588-34",
+        "CNPJ": "",
+        "Placa": "GDQ9C18",
+        "Seguradora": "Liberty",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "0800-7014-120",
+        "TelefoneOutrasLocalidades": "0800-7014-120",
+        "WhatsApp": "http://wa.me/551132061414"
+    },
+    {
+        "CPF": "460.676.108-33",
+        "CNPJ": "",
+        "Placa": "-",
+        "Seguradora": "Bradesco",
+        "Modalidade ": "RESIDENCIAL",
+        "TelefoneCapitais": "4004-2757",
+        "TelefoneOutrasLocalidades": "0800-701-2757",
+        "WhatsApp": "http://wa.me/551130031022"
+    },
+    {
+        "CPF": "086.581.573-93",
+        "CNPJ": "",
+        "Placa": "EJO2482",
+        "Seguradora": "Suhai",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "0800-3186-546",
+        "TelefoneOutrasLocalidades": "0800-3186-546",
+        "WhatsApp": "http://wa.me/551130030335"
+    },
+    {
+        "CPF": "307.250.668-06",
+        "CNPJ": "",
+        "Placa": "EQQ3C54",
+        "Seguradora": "Suhai",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "0800-3186-546",
+        "TelefoneOutrasLocalidades": "0800-3186-546",
+        "WhatsApp": "http://wa.me/551130030335"
+    },
+    {
+        "CPF": "015.635.126-96",
+        "CNPJ": "",
+        "Placa": "QXL2B50",
+        "Seguradora": "Liberty",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "0800-7014-120",
+        "TelefoneOutrasLocalidades": "0800-7014-120",
+        "WhatsApp": "http://wa.me/551132061414"
+    },
+    {
+        "CPF": "129.802.988-08",
+        "CNPJ": "",
+        "Placa": "EZB0663",
+        "Seguradora": "Bradesco",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4004-2757",
+        "TelefoneOutrasLocalidades": "0800-701-2757",
+        "WhatsApp": "http://wa.me/551130031022"
+    },
+    {
+        "CPF": "109.749.557-44",
+        "CNPJ": "",
+        "Placa": "RBL5J55",
+        "Seguradora": "Azul",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4004-3700",
+        "TelefoneOutrasLocalidades": "0800-7030-203",
+        "WhatsApp": "http://wa.me/552139062985"
+    },
+    {
+        "CPF": "418.240.528-55",
+        "CNPJ": "",
+        "Placa": "ENV6764",
+        "Seguradora": "Azul",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4004-3700",
+        "TelefoneOutrasLocalidades": "0800-7030-203",
+        "WhatsApp": "http://wa.me/552139062985"
+    },
+    {
+        "CPF": "292.016.988-28",
+        "CNPJ": "",
+        "Placa": "GBR6A62",
+        "Seguradora": "Porto",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "3337-6786",
+        "TelefoneOutrasLocalidades": "0800-7270-800",
+        "WhatsApp": "http://wa.me/551130039303"
+    },
+    {
+        "CPF": "076.138.568-10",
+        "CNPJ": "",
+        "Placa": "GFA6G27",
+        "Seguradora": "Tokio Marine",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4020-4848",
+        "TelefoneOutrasLocalidades": "0800-285-4141",
+        "WhatsApp": "http://wa.me/5511995786546"
+    },
+    {
+        "CPF": "158.888.781-20",
+        "CNPJ": "",
+        "Placa": "RES3E61",
+        "Seguradora": "Mapfre",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4004-0101",
+        "TelefoneOutrasLocalidades": "0800-775-4545",
+        "WhatsApp": "http://wa.me/551140040101"
+    },
+    {
+        "CPF": "015.788.578-05",
+        "CNPJ": "",
+        "Placa": "GEG4D18",
+        "Seguradora": "Suhai",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "0800-3186-546",
+        "TelefoneOutrasLocalidades": "0800-3186-546",
+        "WhatsApp": "http://wa.me/551130030335"
+    },
+    {
+        "CPF": "111.606.548-75",
+        "CNPJ": "",
+        "Placa": "FZS3J64",
+        "Seguradora": "Allianz",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4090-1110",
+        "TelefoneOutrasLocalidades": "0800-013-0700",
+        "WhatsApp": "http://wa.me/551140901444"
+    },
+    {
+        "CPF": "271.856.658-25",
+        "CNPJ": "",
+        "Placa": "GDV3D88",
+        "Seguradora": "Porto",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "3337-6786",
+        "TelefoneOutrasLocalidades": "0800-7270-800",
+        "WhatsApp": "http://wa.me/551130039303"
+    },
+    {
+        "CPF": "132.639.138-08",
+        "CNPJ": "",
+        "Placa": "QUO8E98",
+        "Seguradora": "Tokio Marine",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4020-4848",
+        "TelefoneOutrasLocalidades": "0800-285-4141",
+        "WhatsApp": "http://wa.me/5511995786546"
+    },
+    {
+        "CPF": "209.744.774-00",
+        "CNPJ": "",
+        "Placa": "GAU7190",
+        "Seguradora": "Tokio Marine",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4020-4848",
+        "TelefoneOutrasLocalidades": "0800-285-4141",
+        "WhatsApp": "http://wa.me/5511995786546"
+    },
+    {
+        "CPF": "333.065.818-52",
+        "CNPJ": "",
+        "Placa": "FAC5528",
+        "Seguradora": "Allianz",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4090-1110",
+        "TelefoneOutrasLocalidades": "0800-013-0700",
+        "WhatsApp": "http://wa.me/551140901444"
+    },
+    {
+        "CPF": "165.874.738-06",
+        "CNPJ": "",
+        "Placa": "ELO1C93",
+        "Seguradora": "Allianz",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4090-1110",
+        "TelefoneOutrasLocalidades": "0800-013-0700",
+        "WhatsApp": "http://wa.me/551140901444"
+    },
+    {
+        "CPF": "155.237.618-42",
+        "CNPJ": "",
+        "Placa": "FWI2328",
+        "Seguradora": "Suhai",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "0800-3186-546",
+        "TelefoneOutrasLocalidades": "0800-3186-546",
+        "WhatsApp": "http://wa.me/551130030335"
+    },
+    {
+        "CPF": "316.163.248-64",
+        "CNPJ": "",
+        "Placa": "FPO5A64",
+        "Seguradora": "Suhai",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "0800-3186-546",
+        "TelefoneOutrasLocalidades": "0800-3186-546",
+        "WhatsApp": "http://wa.me/551130030335"
+    },
+    {
+        "CPF": "392.201.988-94",
+        "CNPJ": "",
+        "Placa": "FYP5451",
+        "Seguradora": "Allianz",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4090-1110",
+        "TelefoneOutrasLocalidades": "0800-013-0700",
+        "WhatsApp": "http://wa.me/551140901444"
+    },
+    {
+        "CPF": "461.146.706-63",
+        "CNPJ": "",
+        "Placa": "FEI9B50",
+        "Seguradora": "HDI",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "3003-5390",
+        "TelefoneOutrasLocalidades": "0800-4344-340",
+        "WhatsApp": "http://wa.me/5508007701608"
+    },
+    {
+        "CPF": "069.314.619-23",
+        "CNPJ": "",
+        "Placa": "FLI0F99",
+        "Seguradora": "Liberty",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "0800-7014-120",
+        "TelefoneOutrasLocalidades": "0800-7014-120",
+        "WhatsApp": "http://wa.me/551132061414"
+    },
+    {
+        "CPF": "179.512.938-73",
+        "CNPJ": "",
+        "Placa": "-",
+        "Seguradora": "Bradesco",
+        "Modalidade ": "RESIDENCIAL",
+        "TelefoneCapitais": "4004-2757",
+        "TelefoneOutrasLocalidades": "0800-701-2757",
+        "WhatsApp": "http://wa.me/551130031022"
+    },
+    {
+        "CPF": "080.490.888-55",
+        "CNPJ": "",
+        "Placa": "GJO3459",
+        "Seguradora": "Azul",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4004-3700",
+        "TelefoneOutrasLocalidades": "0800-7030-203",
+        "WhatsApp": "http://wa.me/552139062985"
+    },
+    {
+        "CPF": "298.740.218-02",
+        "CNPJ": "",
+        "Placa": "SUX7G01",
+        "Seguradora": "Bradesco",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4004-2757",
+        "TelefoneOutrasLocalidades": "0800-701-2757",
+        "WhatsApp": "http://wa.me/551130031022"
+    },
+    {
+        "CPF": "280.764.618-20",
+        "CNPJ": "",
+        "Placa": "GIS9B01",
+        "Seguradora": "Tokio Marine",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4020-4848",
+        "TelefoneOutrasLocalidades": "0800-285-4141",
+        "WhatsApp": "http://wa.me/5511995786546"
+    },
+    {
+        "CPF": "346.023.708-29",
+        "CNPJ": "",
+        "Placa": "FYK0195",
+        "Seguradora": "Allianz",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4090-1110",
+        "TelefoneOutrasLocalidades": "0800-013-0700",
+        "WhatsApp": "http://wa.me/551140901444"
+    },
+    {
+        "CPF": "066.178.008-26",
+        "CNPJ": "",
+        "Placa": "SUL0E06",
+        "Seguradora": "Bradesco",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4004-2757",
+        "TelefoneOutrasLocalidades": "0800-701-2757",
+        "WhatsApp": "http://wa.me/551130031022"
+    },
+    {
+        "CPF": "260.791.018-82",
+        "CNPJ": "",
+        "Placa": "EMM9349",
+        "Seguradora": "Sompo",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "11 3156-2990",
+        "TelefoneOutrasLocalidades": "0800-0162-727",
+        "WhatsApp": "-"
+    },
+    {
+        "CPF": "476.387.698-80",
+        "CNPJ": "",
+        "Placa": "FWV2B32",
+        "Seguradora": "Suhai",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "0800-3186-546",
+        "TelefoneOutrasLocalidades": "0800-3186-546",
+        "WhatsApp": "http://wa.me/551130030335"
+    },
+    {
+        "CPF": "324.363.888-73",
+        "CNPJ": "",
+        "Placa": "SUB3E35",
+        "Seguradora": "Porto",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "3337-6786",
+        "TelefoneOutrasLocalidades": "0800-7270-800",
+        "WhatsApp": "http://wa.me/551130039303"
+    },
+    {
+        "CPF": "302.751.988-39",
+        "CNPJ": "",
+        "Placa": "QPC8F22",
+        "Seguradora": "Tokio Marine",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4020-4848",
+        "TelefoneOutrasLocalidades": "0800-285-4141",
+        "WhatsApp": "http://wa.me/5511995786546"
+    },
+    {
+        "CPF": "213.409.798-10",
+        "CNPJ": "",
+        "Placa": "CPB0660",
+        "Seguradora": "Azul",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4004-3700",
+        "TelefoneOutrasLocalidades": "0800-7030-203",
+        "WhatsApp": "http://wa.me/552139062985"
+    },
+    {
+        "CPF": "380.360.938-04",
+        "CNPJ": "",
+        "Placa": "CNA2G46",
+        "Seguradora": "Suhai",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "0800-3186-546",
+        "TelefoneOutrasLocalidades": "0800-3186-546",
+        "WhatsApp": "http://wa.me/551130030335"
+    },
+    {
+        "CPF": "313.814.298-23",
+        "CNPJ": "",
+        "Placa": "BCC0470",
+        "Seguradora": "Tokio Marine",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4020-4848",
+        "TelefoneOutrasLocalidades": "0800-285-4141",
+        "WhatsApp": "http://wa.me/5511995786546"
+    },
+    {
+        "CPF": "076.138.568-10",
+        "CNPJ": "",
+        "Placa": "FXV7J07",
+        "Seguradora": "Tokio Marine",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4020-4848",
+        "TelefoneOutrasLocalidades": "0800-285-4141",
+        "WhatsApp": "http://wa.me/5511995786546"
+    },
+    {
+        "CPF": "215.743.858-01",
+        "CNPJ": "",
+        "Placa": "DZT0H02",
+        "Seguradora": "Suhai",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "0800-3186-546",
+        "TelefoneOutrasLocalidades": "0800-3186-546",
+        "WhatsApp": "http://wa.me/551130030335"
+    },
+    {
+        "CPF": "166.475.618-38",
+        "CNPJ": "",
+        "Placa": "FXQ5I98",
+        "Seguradora": "Oceanica",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "0800-960-9933, 0800-031-8372 ou 0800-591-0912",
+        "TelefoneOutrasLocalidades": "0800-960-9933, 0800-031-8372 ou 0800-591-0912",
+        "WhatsApp": "-"
+    },
+    {
+        "CPF": "391.273.528-03",
+        "CNPJ": "",
+        "Placa": "EJB7720",
+        "Seguradora": "Azul",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4004-3700",
+        "TelefoneOutrasLocalidades": "0800-7030-203",
+        "WhatsApp": "http://wa.me/552139062985"
+    },
+    {
+        "CPF": "105.836.986-54",
+        "CNPJ": "",
+        "Placa": "RYB0D25",
+        "Seguradora": "Aliro",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "0800-7701-318",
+        "TelefoneOutrasLocalidades": "0800-7701-318",
+        "WhatsApp": "http://wa.me/551132061414"
+    },
+    {
+        "CPF": "213.464.988-73",
+        "CNPJ": "",
+        "Placa": "-",
+        "Seguradora": "Bradesco",
+        "Modalidade ": "RESIDENCIAL",
+        "TelefoneCapitais": "4004-2757",
+        "TelefoneOutrasLocalidades": "0800-701-2757",
+        "WhatsApp": "http://wa.me/551130031022"
+    },
+    {
+        "CPF": "100.168.358-75",
+        "CNPJ": "",
+        "Placa": "QPZ9743",
+        "Seguradora": "Allianz",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4090-1110",
+        "TelefoneOutrasLocalidades": "0800-013-0700",
+        "WhatsApp": "http://wa.me/551140901444"
+    },
+    {
+        "CPF": "041.139.478-99",
+        "CNPJ": "",
+        "Placa": "FVL5B58",
+        "Seguradora": "Azul",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4004-3700",
+        "TelefoneOutrasLocalidades": "0800-7030-203",
+        "WhatsApp": "http://wa.me/552139062985"
+    },
+    {
+        "CPF": "465.526.848-43",
+        "CNPJ": "",
+        "Placa": "QNU1897",
+        "Seguradora": "Oceanica",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "0800-960-9933, 0800-031-8372 ou 0800-591-0912",
+        "TelefoneOutrasLocalidades": "0800-960-9933, 0800-031-8372 ou 0800-591-0912",
+        "WhatsApp": "-"
+    },
+    {
+        "CPF": "132.053.358-21",
+        "CNPJ": "",
+        "Placa": "ATI6G76",
+        "Seguradora": "Suhai",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "0800-3186-546",
+        "TelefoneOutrasLocalidades": "0800-3186-546",
+        "WhatsApp": "http://wa.me/551130030335"
+    },
+    {
+        "CPF": "529.211.038-85",
+        "CNPJ": "",
+        "Placa": "CFY9B18",
+        "Seguradora": "Oceanica",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "0800-960-9933, 0800-031-8372 ou 0800-591-0912",
+        "TelefoneOutrasLocalidades": "0800-960-9933, 0800-031-8372 ou 0800-591-0912",
+        "WhatsApp": "-"
+    },
+    {
+        "CPF": "551.723.108-00",
+        "CNPJ": "",
+        "Placa": "GEC1H46",
+        "Seguradora": "Suhai",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "0800-3186-546",
+        "TelefoneOutrasLocalidades": "0800-3186-546",
+        "WhatsApp": "http://wa.me/551130030335"
+    },
+    {
+        "CPF": "874.516.038-49",
+        "CNPJ": "",
+        "Placa": "DJF5390",
+        "Seguradora": "Porto",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "3337-6786",
+        "TelefoneOutrasLocalidades": "0800-7270-800",
+        "WhatsApp": "http://wa.me/551130039303"
+    },
+    {
+        "CPF": "409.981.758-03",
+        "CNPJ": "",
+        "Placa": "FUD6482",
+        "Seguradora": "Azul",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4004-3700",
+        "TelefoneOutrasLocalidades": "0800-7030-203",
+        "WhatsApp": "http://wa.me/552139062985"
+    },
+    {
+        "CPF": "229.558.148-65",
+        "CNPJ": "",
+        "Placa": "EXZ5889",
+        "Seguradora": "Bradesco",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4004-2757",
+        "TelefoneOutrasLocalidades": "0800-701-2757",
+        "WhatsApp": "http://wa.me/551130031022"
+    },
+    {
+        "CPF": "133.869.298-42",
+        "CNPJ": "",
+        "Placa": "QPH5801",
+        "Seguradora": "Allianz",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4090-1110",
+        "TelefoneOutrasLocalidades": "0800-013-0700",
+        "WhatsApp": "http://wa.me/551140901444"
+    },
+    {
+        "CPF": "944.059.569-87",
+        "CNPJ": "",
+        "Placa": "QJV1877",
+        "Seguradora": "Azul",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4004-3700",
+        "TelefoneOutrasLocalidades": "0800-7030-203",
+        "WhatsApp": "http://wa.me/552139062985"
+    },
+    {
+        "CPF": "155.237.618-42",
+        "CNPJ": "",
+        "Placa": "RFS5A41",
+        "Seguradora": "Suhai",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "0800-3186-546",
+        "TelefoneOutrasLocalidades": "0800-3186-546",
+        "WhatsApp": "http://wa.me/551130030335"
+    },
+    {
+        "CPF": "126.895.948-03",
+        "CNPJ": "",
+        "Placa": "SWF9E20",
+        "Seguradora": "Suhai",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "0800-3186-546",
+        "TelefoneOutrasLocalidades": "0800-3186-546",
+        "WhatsApp": "http://wa.me/551130030335"
+    },
+    {
+        "CPF": "316.785.348-46",
+        "CNPJ": "",
+        "Placa": "FRH6423",
+        "Seguradora": "Allianz",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4090-1110",
+        "TelefoneOutrasLocalidades": "0800-013-0700",
+        "WhatsApp": "http://wa.me/551140901444"
+    },
+    {
+        "CPF": "282.963.848-41",
+        "CNPJ": "",
+        "Placa": "FNX0E75",
+        "Seguradora": "Azul",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4004-3700",
+        "TelefoneOutrasLocalidades": "0800-7030-203",
+        "WhatsApp": "http://wa.me/552139062985"
+    },
+    {
+        "CPF": "610.208.188-91",
+        "CNPJ": "",
+        "Placa": "GDL5G66",
+        "Seguradora": "Tokio Marine",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4020-4848",
+        "TelefoneOutrasLocalidades": "0800-285-4141",
+        "WhatsApp": "http://wa.me/5511995786546"
+    },
+    {
+        "CPF": "114.246.538-19",
+        "CNPJ": "",
+        "Placa": "DKH0A54",
+        "Seguradora": "Porto",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "3337-6786",
+        "TelefoneOutrasLocalidades": "0800-7270-800",
+        "WhatsApp": "http://wa.me/551130039303"
+    },
+    {
+        "CPF": "395.979.428-28",
+        "CNPJ": "",
+        "Placa": "FRV4C18",
+        "Seguradora": "Azul",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4004-3700",
+        "TelefoneOutrasLocalidades": "0800-7030-203",
+        "WhatsApp": "http://wa.me/552139062985"
+    },
+    {
+        "CPF": "343.290.168-26",
+        "CNPJ": "",
+        "Placa": "FGR2797",
+        "Seguradora": "HDI",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "3003-5390",
+        "TelefoneOutrasLocalidades": "0800-4344-340",
+        "WhatsApp": "http://wa.me/5508007701608"
+    },
+    {
+        "CPF": "412.191.838-06",
+        "CNPJ": "",
+        "Placa": "GHZ5251",
+        "Seguradora": "Azul",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4004-3700",
+        "TelefoneOutrasLocalidades": "0800-7030-203",
+        "WhatsApp": "http://wa.me/552139062985"
+    },
+    {
+        "CPF": "446.908.918-42",
+        "CNPJ": "",
+        "Placa": "DIE2921",
+        "Seguradora": "HDI",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "3003-5390",
+        "TelefoneOutrasLocalidades": "0800-4344-340",
+        "WhatsApp": "http://wa.me/5508007701608"
+    },
+    {
+        "CPF": "368.060.048-81",
+        "CNPJ": "",
+        "Placa": "ENZ6C79",
+        "Seguradora": "Suhai",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "0800-3186-546",
+        "TelefoneOutrasLocalidades": "0800-3186-546",
+        "WhatsApp": "http://wa.me/551130030335"
+    },
+    {
+        "CPF": "123.348.837-60",
+        "CNPJ": "",
+        "Placa": "SGD9A09",
+        "Seguradora": "Suhai",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "0800-3186-546",
+        "TelefoneOutrasLocalidades": "0800-3186-546",
+        "WhatsApp": "http://wa.me/551130030335"
+    },
+    {
+        "CPF": "213.464.988-73",
+        "CNPJ": "",
+        "Placa": "GGL0D27",
+        "Seguradora": "Allianz",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4090-1110",
+        "TelefoneOutrasLocalidades": "0800-013-0700",
+        "WhatsApp": "http://wa.me/551140901444"
+    },
+    {
+        "CPF": "712.008.438-00",
+        "CNPJ": "",
+        "Placa": "EQK9668",
+        "Seguradora": "HDI",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "3003-5390",
+        "TelefoneOutrasLocalidades": "0800-4344-340",
+        "WhatsApp": "http://wa.me/5508007701608"
+    },
+    {
+        "CPF": "001.498.138-64",
+        "CNPJ": "",
+        "Placa": "GCS4745",
+        "Seguradora": "Porto",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "3337-6786",
+        "TelefoneOutrasLocalidades": "0800-7270-800",
+        "WhatsApp": "http://wa.me/551130039303"
+    },
+    {
+        "CPF": "100.655.334-70",
+        "CNPJ": "",
+        "Placa": "SNL7F64",
+        "Seguradora": "Suhai",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "0800-3186-546",
+        "TelefoneOutrasLocalidades": "0800-3186-546",
+        "WhatsApp": "http://wa.me/551130030335"
+    },
+    {
+        "CPF": "246.185.708-30",
+        "CNPJ": "",
+        "Placa": "QUK3D59",
+        "Seguradora": "Allianz",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4090-1110",
+        "TelefoneOutrasLocalidades": "0800-013-0700",
+        "WhatsApp": "http://wa.me/551140901444"
+    },
+    {
+        "CPF": "310.841.588-33",
+        "CNPJ": "",
+        "Placa": "EIA6918",
+        "Seguradora": "Azul",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4004-3700",
+        "TelefoneOutrasLocalidades": "0800-7030-203",
+        "WhatsApp": "http://wa.me/552139062985"
+    },
+    {
+        "CPF": "336.632.598-46",
+        "CNPJ": "",
+        "Placa": "FSI6145 ",
+        "Seguradora": "Tokio Marine",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4020-4848",
+        "TelefoneOutrasLocalidades": "0800-285-4141",
+        "WhatsApp": "http://wa.me/5511995786546"
+    },
+    {
+        "CPF": "281.620.418-93",
+        "CNPJ": "",
+        "Placa": "FDD3321",
+        "Seguradora": "Azul",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4004-3700",
+        "TelefoneOutrasLocalidades": "0800-7030-203",
+        "WhatsApp": "http://wa.me/552139062985"
+    },
+    {
+        "CPF": "",
+        "CNPJ": "01.097.550/0001-33",
+        "Placa": "FZU2I97",
+        "Seguradora": "Liberty",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "0800-7014-120",
+        "TelefoneOutrasLocalidades": "0800-7014-120",
+        "WhatsApp": "http://wa.me/551132061414"
+    },
+    {
+        "CPF": "029.544.058-99",
+        "CNPJ": "",
+        "Placa": "FIN2569",
+        "Seguradora": "Bradesco",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4004-2757",
+        "TelefoneOutrasLocalidades": "0800-701-2757",
+        "WhatsApp": "http://wa.me/551130031022"
+    },
+    {
+        "CPF": "195.809.668-77",
+        "CNPJ": "",
+        "Placa": "-",
+        "Seguradora": "Bradesco",
+        "Modalidade ": "RESIDENCIAL",
+        "TelefoneCapitais": "4004-2757",
+        "TelefoneOutrasLocalidades": "0800-701-2757",
+        "WhatsApp": "http://wa.me/551130031022"
+    },
+    {
+        "CPF": "135.772.588-45",
+        "CNPJ": "",
+        "Placa": "-",
+        "Seguradora": "Bradesco",
+        "Modalidade ": "RESIDENCIAL",
+        "TelefoneCapitais": "4004-2757",
+        "TelefoneOutrasLocalidades": "0800-701-2757",
+        "WhatsApp": "http://wa.me/551130031022"
+    },
+    {
+        "CPF": "155.237.618-42",
+        "CNPJ": "",
+        "Placa": "FDS4C47",
+        "Seguradora": "Suhai",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "0800-3186-546",
+        "TelefoneOutrasLocalidades": "0800-3186-546",
+        "WhatsApp": "http://wa.me/551130030335"
+    },
+    {
+        "CPF": "386.776.438-77",
+        "CNPJ": "",
+        "Placa": "ENI1E85",
+        "Seguradora": "Porto",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "3337-6786",
+        "TelefoneOutrasLocalidades": "0800-7270-800",
+        "WhatsApp": "http://wa.me/551130039303"
+    },
+    {
+        "CPF": "085.149.958-98",
+        "CNPJ": "",
+        "Placa": "FCG0630",
+        "Seguradora": "Tokio Marine",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4020-4848",
+        "TelefoneOutrasLocalidades": "0800-285-4141",
+        "WhatsApp": "http://wa.me/5511995786546"
+    },
+    {
+        "CPF": "372.534.678-09",
+        "CNPJ": "",
+        "Placa": "SDA1G57",
+        "Seguradora": "Suhai",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "0800-3186-546",
+        "TelefoneOutrasLocalidades": "0800-3186-546",
+        "WhatsApp": "http://wa.me/551130030335"
+    },
+    {
+        "CPF": "127.060.078-85",
+        "CNPJ": "",
+        "Placa": "DZB5813",
+        "Seguradora": "Suhai",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "0800-3186-546",
+        "TelefoneOutrasLocalidades": "0800-3186-546",
+        "WhatsApp": "http://wa.me/551130030335"
+    },
+    {
+        "CPF": "035.353.748-98",
+        "CNPJ": "",
+        "Placa": "SWP1J19",
+        "Seguradora": "HDI",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "3003-5390",
+        "TelefoneOutrasLocalidades": "0800-4344-340",
+        "WhatsApp": "http://wa.me/5508007701608"
+    },
+    {
+        "CPF": "042.586.058-24",
+        "CNPJ": "",
+        "Placa": "FWH8107",
+        "Seguradora": "Allianz",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4090-1110",
+        "TelefoneOutrasLocalidades": "0800-013-0700",
+        "WhatsApp": "http://wa.me/551140901444"
+    },
+    {
+        "CPF": "347.901.388-01",
+        "CNPJ": "",
+        "Placa": "EZY5J20",
+        "Seguradora": "Suhai",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "0800-3186-546",
+        "TelefoneOutrasLocalidades": "0800-3186-546",
+        "WhatsApp": "http://wa.me/551130030335"
+    },
+    {
+        "CPF": "305.462.008-50",
+        "CNPJ": "",
+        "Placa": "EJW4A32",
+        "Seguradora": "Porto",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "3337-6786",
+        "TelefoneOutrasLocalidades": "0800-7270-800",
+        "WhatsApp": "http://wa.me/551130039303"
+    },
+    {
+        "CPF": "135.772.588-45",
+        "CNPJ": "",
+        "Placa": "EPT2976",
+        "Seguradora": "Porto",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "3337-6786",
+        "TelefoneOutrasLocalidades": "0800-7270-800",
+        "WhatsApp": "http://wa.me/551130039303"
+    },
+    {
+        "CPF": "168.769.970-49",
+        "CNPJ": "",
+        "Placa": "RTC8A25",
+        "Seguradora": "Allianz",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4090-1110",
+        "TelefoneOutrasLocalidades": "0800-013-0700",
+        "WhatsApp": "http://wa.me/551140901444"
+    },
+    {
+        "CPF": "371.572.358-03",
+        "CNPJ": "",
+        "Placa": "DRF4J63",
+        "Seguradora": "Suhai",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "0800-3186-546",
+        "TelefoneOutrasLocalidades": "0800-3186-546",
+        "WhatsApp": "http://wa.me/551130030335"
+    },
+    {
+        "CPF": "371.572.358-03",
+        "CNPJ": "",
+        "Placa": "DEL9B00 ",
+        "Seguradora": "Tokio Marine",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4020-4848",
+        "TelefoneOutrasLocalidades": "0800-285-4141",
+        "WhatsApp": "http://wa.me/5511995786546"
+    },
+    {
+        "CPF": "371.572.358-03",
+        "CNPJ": "",
+        "Placa": "DWL3553",
+        "Seguradora": "Tokio Marine",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4020-4848",
+        "TelefoneOutrasLocalidades": "0800-285-4141",
+        "WhatsApp": "http://wa.me/5511995786546"
+    },
+    {
+        "CPF": "371.572.358-03",
+        "CNPJ": "",
+        "Placa": "FDR4G80",
+        "Seguradora": "Suhai",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "0800-3186-546",
+        "TelefoneOutrasLocalidades": "0800-3186-546",
+        "WhatsApp": "http://wa.me/551130030335"
+    },
+    {
+        "CPF": "347.400.728-90",
+        "CNPJ": "",
+        "Placa": "SUD4C23",
+        "Seguradora": "Suhai",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "0800-3186-546",
+        "TelefoneOutrasLocalidades": "0800-3186-546",
+        "WhatsApp": "http://wa.me/551130030335"
+    },
+    {
+        "CPF": "114.246.538-19",
+        "CNPJ": "",
+        "Placa": "GGZ1E34",
+        "Seguradora": "Porto",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "3337-6786",
+        "TelefoneOutrasLocalidades": "0800-7270-800",
+        "WhatsApp": "http://wa.me/551130039303"
+    },
+    {
+        "CPF": "276.513.018-38",
+        "CNPJ": "",
+        "Placa": "GCK2750",
+        "Seguradora": "Allianz",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4090-1110",
+        "TelefoneOutrasLocalidades": "0800-013-0700",
+        "WhatsApp": "http://wa.me/551140901444"
+    },
+    {
+        "CPF": "085.149.958-98",
+        "CNPJ": "",
+        "Placa": "FAL1481",
+        "Seguradora": "Porto",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "3337-6786",
+        "TelefoneOutrasLocalidades": "0800-7270-800",
+        "WhatsApp": "http://wa.me/551130039303"
+    },
+    {
+        "CPF": "178.116.818-03",
+        "CNPJ": "",
+        "Placa": "QOT1414",
+        "Seguradora": "Mapfre",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4004-0101",
+        "TelefoneOutrasLocalidades": "0800-775-4545",
+        "WhatsApp": "http://wa.me/551140040101"
+    },
+    {
+        "CPF": "360.366.718-22",
+        "CNPJ": "",
+        "Placa": "EQZ0889",
+        "Seguradora": "Suhai",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "0800-3186-546",
+        "TelefoneOutrasLocalidades": "0800-3186-546",
+        "WhatsApp": "http://wa.me/551130030335"
+    },
+    {
+        "CPF": "395.979.428-28",
+        "CNPJ": "",
+        "Placa": "EHT7H55",
+        "Seguradora": "Suhai",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "0800-3186-546",
+        "TelefoneOutrasLocalidades": "0800-3186-546",
+        "WhatsApp": "http://wa.me/551130030335"
+    },
+    {
+        "CPF": "133.635.327-92",
+        "CNPJ": "",
+        "Placa": "QRL2E67",
+        "Seguradora": "Mapfre",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4004-0101",
+        "TelefoneOutrasLocalidades": "0800-775-4545",
+        "WhatsApp": "http://wa.me/551140040101"
+    },
+    {
+        "CPF": "155.237.618-42",
+        "CNPJ": "",
+        "Placa": "GDE7I39",
+        "Seguradora": "Suhai",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "0800-3186-546",
+        "TelefoneOutrasLocalidades": "0800-3186-546",
+        "WhatsApp": "http://wa.me/551130030335"
+    },
+    {
+        "CPF": "374.623.048-99",
+        "CNPJ": "",
+        "Placa": "QPH0C70",
+        "Seguradora": "Tokio Marine",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4020-4848",
+        "TelefoneOutrasLocalidades": "0800-285-4141",
+        "WhatsApp": "http://wa.me/5511995786546"
+    },
+    {
+        "CPF": "360.776.948-60",
+        "CNPJ": "",
+        "Placa": "EDM1A73",
+        "Seguradora": "Porto",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "3337-6786",
+        "TelefoneOutrasLocalidades": "0800-7270-800",
+        "WhatsApp": "http://wa.me/551130039303"
+    },
+    {
+        "CPF": "155.237.618-42",
+        "CNPJ": "",
+        "Placa": "FNH5077",
+        "Seguradora": "Suhai",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "0800-3186-546",
+        "TelefoneOutrasLocalidades": "0800-3186-546",
+        "WhatsApp": "http://wa.me/551130030335"
+    },
+    {
+        "CPF": "255.675.258-00",
+        "CNPJ": "",
+        "Placa": "FFP8761",
+        "Seguradora": "Tokio Marine",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4020-4848",
+        "TelefoneOutrasLocalidades": "0800-285-4141",
+        "WhatsApp": "http://wa.me/5511995786546"
+    },
+    {
+        "CPF": "917.268.168-34",
+        "CNPJ": "",
+        "Placa": "GDQ4560",
+        "Seguradora": "Tokio Marine",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4020-4848",
+        "TelefoneOutrasLocalidades": "0800-285-4141",
+        "WhatsApp": "http://wa.me/5511995786546"
+    },
+    {
+        "CPF": "363.695.498-94",
+        "CNPJ": "",
+        "Placa": "FBL5B91",
+        "Seguradora": "Azul",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4004-3700",
+        "TelefoneOutrasLocalidades": "0800-7030-203",
+        "WhatsApp": "http://wa.me/552139062985"
+    },
+    {
+        "CPF": "195.809.668-77",
+        "CNPJ": "",
+        "Placa": "-",
+        "Seguradora": "Porto",
+        "Modalidade ": "RESIDENCIAL",
+        "TelefoneCapitais": "3337-6786",
+        "TelefoneOutrasLocalidades": "0800-7270-800",
+        "WhatsApp": "http://wa.me/551130039303"
+    },
+    {
+        "CPF": "418.240.538-27",
+        "CNPJ": "",
+        "Placa": "DST4656",
+        "Seguradora": "Porto",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "3337-6786",
+        "TelefoneOutrasLocalidades": "0800-7270-800",
+        "WhatsApp": "http://wa.me/551130039303"
+    },
+    {
+        "CPF": "125.168.668-01",
+        "CNPJ": "",
+        "Placa": "-",
+        "Seguradora": "Allianz",
+        "Modalidade ": "RESIDENCIAL",
+        "TelefoneCapitais": "4090-1110",
+        "TelefoneOutrasLocalidades": "0800-013-0700",
+        "WhatsApp": "http://wa.me/551140901444"
+    },
+    {
+        "CPF": "397.111.088-60",
+        "CNPJ": "",
+        "Placa": "EEV8881",
+        "Seguradora": "Suhai",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "0800-3186-546",
+        "TelefoneOutrasLocalidades": "0800-3186-546",
+        "WhatsApp": "http://wa.me/551130030335"
+    },
+    {
+        "CPF": "478.895.516-49",
+        "CNPJ": "",
+        "Placa": "RFS7F67",
+        "Seguradora": "Tokio Marine",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4020-4848",
+        "TelefoneOutrasLocalidades": "0800-285-4141",
+        "WhatsApp": "http://wa.me/5511995786546"
+    },
+    {
+        "CPF": "291.988.398-45",
+        "CNPJ": "",
+        "Placa": "FRY7606",
+        "Seguradora": "Azul",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4004-3700",
+        "TelefoneOutrasLocalidades": "0800-7030-203",
+        "WhatsApp": "http://wa.me/552139062985"
+    },
+    {
+        "CPF": "945.449.998-04",
+        "CNPJ": "",
+        "Placa": "ENZ8E37",
+        "Seguradora": "Allianz",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4090-1110",
+        "TelefoneOutrasLocalidades": "0800-013-0700",
+        "WhatsApp": "http://wa.me/551140901444"
+    },
+    {
+        "CPF": "391.228.718-02",
+        "CNPJ": "",
+        "Placa": "EMW8994",
+        "Seguradora": "Azul",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4004-3700",
+        "TelefoneOutrasLocalidades": "0800-7030-203",
+        "WhatsApp": "http://wa.me/552139062985"
+    },
+    {
+        "CPF": "221.906.908-70",
+        "CNPJ": "",
+        "Placa": "LMM7297",
+        "Seguradora": "Tokio Marine",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4020-4848",
+        "TelefoneOutrasLocalidades": "0800-285-4141",
+        "WhatsApp": "http://wa.me/5511995786546"
+    },
+    {
+        "CPF": "243.007.078-20",
+        "CNPJ": "",
+        "Placa": "GIG3065",
+        "Seguradora": "Azul",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4004-3700",
+        "TelefoneOutrasLocalidades": "0800-7030-203",
+        "WhatsApp": "http://wa.me/552139062985"
+    },
+    {
+        "CPF": "434.812.726-34",
+        "CNPJ": "",
+        "Placa": "BYF6G42",
+        "Seguradora": "Porto",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "3337-6786",
+        "TelefoneOutrasLocalidades": "0800-7270-800",
+        "WhatsApp": "http://wa.me/551130039303"
+    },
+    {
+        "CPF": "945.449.998-04",
+        "CNPJ": "",
+        "Placa": "FXW0B88",
+        "Seguradora": "Porto",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "3337-6786",
+        "TelefoneOutrasLocalidades": "0800-7270-800",
+        "WhatsApp": "http://wa.me/551130039303"
+    },
+    {
+        "CPF": "377.031.668-12",
+        "CNPJ": "",
+        "Placa": "SVG8D25",
+        "Seguradora": "Allianz",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4090-1110",
+        "TelefoneOutrasLocalidades": "0800-013-0700",
+        "WhatsApp": "http://wa.me/551140901444"
+    },
+    {
+        "CPF": "163.062.603-15",
+        "CNPJ": "",
+        "Placa": "DRS4E95",
+        "Seguradora": "Tokio Marine",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4020-4848",
+        "TelefoneOutrasLocalidades": "0800-285-4141",
+        "WhatsApp": "http://wa.me/5511995786546"
+    },
+    {
+        "CPF": "405.628.324-91",
+        "CNPJ": "",
+        "Placa": "EUI5086",
+        "Seguradora": "Porto",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "3337-6786",
+        "TelefoneOutrasLocalidades": "0800-7270-800",
+        "WhatsApp": "http://wa.me/551130039303"
+    },
+    {
+        "CPF": "054.340.548-65",
+        "CNPJ": "",
+        "Placa": "GHV2C07",
+        "Seguradora": "Allianz",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4090-1110",
+        "TelefoneOutrasLocalidades": "0800-013-0700",
+        "WhatsApp": "http://wa.me/551140901444"
+    },
+    {
+        "CPF": "164.958.118-10",
+        "CNPJ": "",
+        "Placa": "FQF2453",
+        "Seguradora": "Azul",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4004-3700",
+        "TelefoneOutrasLocalidades": "0800-7030-203",
+        "WhatsApp": "http://wa.me/552139062985"
+    },
+    {
+        "CPF": "226.781.558-38",
+        "CNPJ": "",
+        "Placa": "EXT5A69",
+        "Seguradora": "Suhai",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "0800-3186-546",
+        "TelefoneOutrasLocalidades": "0800-3186-546",
+        "WhatsApp": "http://wa.me/551130030335"
+    },
+    {
+        "CPF": "433.383.748-01",
+        "CNPJ": "",
+        "Placa": "FDS8G71",
+        "Seguradora": "Suhai",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "0800-3186-546",
+        "TelefoneOutrasLocalidades": "0800-3186-546",
+        "WhatsApp": "http://wa.me/551130030335"
+    },
+    {
+        "CPF": "269.829.728-01",
+        "CNPJ": "",
+        "Placa": "PXJ7616",
+        "Seguradora": "HDI",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "3003-5390",
+        "TelefoneOutrasLocalidades": "0800-4344-340",
+        "WhatsApp": "http://wa.me/5508007701608"
+    },
+    {
+        "CPF": "313.928.558-29",
+        "CNPJ": "",
+        "Placa": "FSQ3548",
+        "Seguradora": "Suhai",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "0800-3186-546",
+        "TelefoneOutrasLocalidades": "0800-3186-546",
+        "WhatsApp": "http://wa.me/551130030335"
+    },
+    {
+        "CPF": "278.365.618-36",
+        "CNPJ": "",
+        "Placa": "FYZ2604",
+        "Seguradora": "Suhai",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "0800-3186-546",
+        "TelefoneOutrasLocalidades": "0800-3186-546",
+        "WhatsApp": "http://wa.me/551130030335"
+    },
+    {
+        "CPF": "941.866.262-00",
+        "CNPJ": "",
+        "Placa": "-",
+        "Seguradora": "Tokio Marine",
+        "Modalidade ": "RESIDENCIAL",
+        "TelefoneCapitais": "4020-4848",
+        "TelefoneOutrasLocalidades": "0800-285-4141",
+        "WhatsApp": "http://wa.me/5511995786546"
+    },
+    {
+        "CPF": "097.150.314-12",
+        "CNPJ": "",
+        "Placa": "QFL2G15",
+        "Seguradora": "Azul",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4004-3700",
+        "TelefoneOutrasLocalidades": "0800-7030-203",
+        "WhatsApp": "http://wa.me/552139062985"
+    },
+    {
+        "CPF": "397.111.088-60",
+        "CNPJ": "",
+        "Placa": "CTK2983",
+        "Seguradora": "Suhai",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "0800-3186-546",
+        "TelefoneOutrasLocalidades": "0800-3186-546",
+        "WhatsApp": "http://wa.me/551130030335"
+    },
+    {
+        "CPF": "",
+        "CNPJ": "33.722.392/0001-51",
+        "Placa": "EZY4470",
+        "Seguradora": "Suhai",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "0800-3186-546",
+        "TelefoneOutrasLocalidades": "0800-3186-546",
+        "WhatsApp": "http://wa.me/551130030335"
+    },
+    {
+        "CPF": "536.596.838-76",
+        "CNPJ": "",
+        "Placa": "STW7A39",
+        "Seguradora": "Porto",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "3337-6786",
+        "TelefoneOutrasLocalidades": "0800-7270-800",
+        "WhatsApp": "http://wa.me/551130039303"
+    },
+    {
+        "CPF": "223.598.848-24",
+        "CNPJ": "",
+        "Placa": "FNM0952",
+        "Seguradora": "Azul",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4004-3700",
+        "TelefoneOutrasLocalidades": "0800-7030-203",
+        "WhatsApp": "http://wa.me/552139062985"
+    },
+    {
+        "CPF": "397.615.408-39",
+        "CNPJ": "",
+        "Placa": "FFR0978 ",
+        "Seguradora": "Tokio Marine",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4020-4848",
+        "TelefoneOutrasLocalidades": "0800-285-4141",
+        "WhatsApp": "http://wa.me/5511995786546"
+    },
+    {
+        "CPF": "",
+        "CNPJ": "43.229.623/0001-43",
+        "Placa": "BBH4B70",
+        "Seguradora": "Suhai",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "0800-3186-546",
+        "TelefoneOutrasLocalidades": "0800-3186-546",
+        "WhatsApp": "http://wa.me/551130030335"
+    },
+    {
+        "CPF": "427.082.653-34",
+        "CNPJ": "",
+        "Placa": "DXW3J43",
+        "Seguradora": "Allianz",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4090-1110",
+        "TelefoneOutrasLocalidades": "0800-013-0700",
+        "WhatsApp": "http://wa.me/551140901444"
+    },
+    {
+        "CPF": "114.255.618-29",
+        "CNPJ": "",
+        "Placa": "GAC1707",
+        "Seguradora": "Allianz",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4090-1110",
+        "TelefoneOutrasLocalidades": "0800-013-0700",
+        "WhatsApp": "http://wa.me/551140901444"
+    },
+    {
+        "CPF": "223.962.208-37",
+        "CNPJ": "",
+        "Placa": "PYY2J55",
+        "Seguradora": "Tokio Marine",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4020-4848",
+        "TelefoneOutrasLocalidades": "0800-285-4141",
+        "WhatsApp": "http://wa.me/5511995786546"
+    },
+    {
+        "CPF": "260.527.998-70",
+        "CNPJ": "",
+        "Placa": "LTX7F98",
+        "Seguradora": "Porto",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "3337-6786",
+        "TelefoneOutrasLocalidades": "0800-7270-800",
+        "WhatsApp": "http://wa.me/551130039303"
+    },
+    {
+        "CPF": "198.618.358-06",
+        "CNPJ": "",
+        "Placa": "DUA6959",
+        "Seguradora": "Azul",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4004-3700",
+        "TelefoneOutrasLocalidades": "0800-7030-203",
+        "WhatsApp": "http://wa.me/552139062985"
+    },
+    {
+        "CPF": "043.569.848-62",
+        "CNPJ": "",
+        "Placa": "CUB0J22",
+        "Seguradora": "Suhai",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "0800-3186-546",
+        "TelefoneOutrasLocalidades": "0800-3186-546",
+        "WhatsApp": "http://wa.me/551130030335"
+    },
+    {
+        "CPF": "128.627.258-03",
+        "CNPJ": "",
+        "Placa": "RTY5A47",
+        "Seguradora": "Allianz",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4090-1110",
+        "TelefoneOutrasLocalidades": "0800-013-0700",
+        "WhatsApp": "http://wa.me/551140901444"
+    },
+    {
+        "CPF": "795.697.148-91",
+        "CNPJ": "",
+        "Placa": "FZE0940",
+        "Seguradora": "Tokio Marine",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4020-4848",
+        "TelefoneOutrasLocalidades": "0800-285-4141",
+        "WhatsApp": "http://wa.me/5511995786546"
+    },
+    {
+        "CPF": "118.090.728-08",
+        "CNPJ": "",
+        "Placa": "GCM2883",
+        "Seguradora": "Allianz",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4090-1110",
+        "TelefoneOutrasLocalidades": "0800-013-0700",
+        "WhatsApp": "http://wa.me/551140901444"
+    },
+    {
+        "CPF": "334.916.848-54",
+        "CNPJ": "",
+        "Placa": "GDK4G76",
+        "Seguradora": "Mapfre",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4004-0101",
+        "TelefoneOutrasLocalidades": "0800-775-4545",
+        "WhatsApp": "http://wa.me/551140040101"
+    },
+    {
+        "CPF": "273.482.968-15",
+        "CNPJ": "",
+        "Placa": "ETO1G84",
+        "Seguradora": "Azul",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4004-3700",
+        "TelefoneOutrasLocalidades": "0800-7030-203",
+        "WhatsApp": "http://wa.me/552139062985"
+    },
+    {
+        "CPF": "392.202.008-99",
+        "CNPJ": "",
+        "Placa": "-",
+        "Seguradora": "Bradesco",
+        "Modalidade ": "Residencial",
+        "TelefoneCapitais": "4004-2757",
+        "TelefoneOutrasLocalidades": "0800-701-2757",
+        "WhatsApp": "http://wa.me/551130031022"
+    },
+    {
+        "CPF": "223.785.038-06",
+        "CNPJ": "",
+        "Placa": "FWH7G29",
+        "Seguradora": "Azul",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4004-3700",
+        "TelefoneOutrasLocalidades": "0800-7030-203",
+        "WhatsApp": "http://wa.me/552139062985"
+    },
+    {
+        "CPF": "",
+        "CNPJ": "47.954.662/0001-64",
+        "Placa": "EFA7999",
+        "Seguradora": "Azul",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4004-3700",
+        "TelefoneOutrasLocalidades": "0800-7030-203",
+        "WhatsApp": "http://wa.me/552139062985"
+    },
+    {
+        "CPF": "132.421.448-13",
+        "CNPJ": "",
+        "Placa": "DEA6E72 ",
+        "Seguradora": "Tokio Marine",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4020-4848",
+        "TelefoneOutrasLocalidades": "0800-285-4141",
+        "WhatsApp": "http://wa.me/5511995786546"
+    },
+    {
+        "CPF": "057.447.226-61",
+        "CNPJ": "",
+        "Placa": "HBH6225",
+        "Seguradora": "Azul",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4004-3700",
+        "TelefoneOutrasLocalidades": "0800-7030-203",
+        "WhatsApp": "http://wa.me/552139062985"
+    },
+    {
+        "CPF": "352.488.348-64",
+        "CNPJ": "",
+        "Placa": "ELP0873",
+        "Seguradora": "Azul",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4004-3700",
+        "TelefoneOutrasLocalidades": "0800-7030-203",
+        "WhatsApp": "http://wa.me/552139062985"
+    },
+    {
+        "CPF": "044.386.601-57",
+        "CNPJ": "",
+        "Placa": "HJG9953",
+        "Seguradora": "Azul",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4004-3700",
+        "TelefoneOutrasLocalidades": "0800-7030-203",
+        "WhatsApp": "http://wa.me/552139062985"
+    },
+    {
+        "CPF": "380.212.988-12",
+        "CNPJ": "",
+        "Placa": "EIO3646",
+        "Seguradora": "Azul",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4004-3700",
+        "TelefoneOutrasLocalidades": "0800-7030-203",
+        "WhatsApp": "http://wa.me/552139062985"
+    },
+    {
+        "CPF": "405.826.848-46",
+        "CNPJ": "",
+        "Placa": "FHL3610",
+        "Seguradora": "Mitsui",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "0800-707-7883",
+        "TelefoneOutrasLocalidades": "0800-707-7883",
+        "WhatsApp": "http://wa.me/551131775700"
+    },
+    {
+        "CPF": "762.123.438-53",
+        "CNPJ": "",
+        "Placa": "FOJ1285",
+        "Seguradora": "Allianz",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4090-1110",
+        "TelefoneOutrasLocalidades": "0800-013-0700",
+        "WhatsApp": "http://wa.me/551140901444"
+    },
+    {
+        "CPF": "333.483.138-80",
+        "CNPJ": "",
+        "Placa": "QPQ6I99",
+        "Seguradora": "Tokio Marine",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4020-4848",
+        "TelefoneOutrasLocalidades": "0800-285-4141",
+        "WhatsApp": "http://wa.me/5511995786546"
+    },
+    {
+        "CPF": "126.895.948-03",
+        "CNPJ": "",
+        "Placa": "FXZ3B29",
+        "Seguradora": "Suhai",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "0800-3186-546",
+        "TelefoneOutrasLocalidades": "0800-3186-546",
+        "WhatsApp": "http://wa.me/551130030335"
+    },
+    {
+        "CPF": "315.698.288-14",
+        "CNPJ": "",
+        "Placa": "GCN1D39",
+        "Seguradora": "Azul",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4004-3700",
+        "TelefoneOutrasLocalidades": "0800-7030-203",
+        "WhatsApp": "http://wa.me/552139062985"
+    },
+    {
+        "CPF": "126.850.438-61",
+        "CNPJ": "",
+        "Placa": "FNH8D38",
+        "Seguradora": "Allianz",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4090-1110",
+        "TelefoneOutrasLocalidades": "0800-013-0700",
+        "WhatsApp": "http://wa.me/551140901444"
+    },
+    {
+        "CPF": "218.226.968-10",
+        "CNPJ": "",
+        "Placa": "FUI5B21",
+        "Seguradora": "Porto",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "3337-6786",
+        "TelefoneOutrasLocalidades": "0800-7270-800",
+        "WhatsApp": "http://wa.me/551130039303"
+    },
+    {
+        "CPF": "108.693.327-32",
+        "CNPJ": "",
+        "Placa": "LSZ6G24",
+        "Seguradora": "Azul",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4004-3700",
+        "TelefoneOutrasLocalidades": "0800-7030-203",
+        "WhatsApp": "http://wa.me/552139062985"
+    },
+    {
+        "CPF": "078.850.728-19",
+        "CNPJ": "",
+        "Placa": "GJX2817",
+        "Seguradora": "Azul",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4004-3700",
+        "TelefoneOutrasLocalidades": "0800-7030-203",
+        "WhatsApp": "http://wa.me/552139062985"
+    },
+    {
+        "CPF": "",
+        "CNPJ": "23.052.952/0001-54",
+        "Placa": "FMY4G36",
+        "Seguradora": "Mapfre",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4004-0101",
+        "TelefoneOutrasLocalidades": "0800-775-4545",
+        "WhatsApp": "http://wa.me/551140040101"
+    },
+    {
+        "CPF": "",
+        "CNPJ": "23.052.952/0001-54",
+        "Placa": "EYJ6I77",
+        "Seguradora": "HDI",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "3003-5390",
+        "TelefoneOutrasLocalidades": "0800-4344-340",
+        "WhatsApp": "http://wa.me/5508007701608"
+    },
+    {
+        "CPF": "",
+        "CNPJ": "23.052.952/0001-54",
+        "Placa": "GFK0359",
+        "Seguradora": "Liberty",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "0800-7014-120",
+        "TelefoneOutrasLocalidades": "0800-7014-120",
+        "WhatsApp": "http://wa.me/551132061414"
+    },
+    {
+        "CPF": "315.922.118-01",
+        "CNPJ": "",
+        "Placa": "STY4G50",
+        "Seguradora": "Suhai",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "0800-3186-546",
+        "TelefoneOutrasLocalidades": "0800-3186-546",
+        "WhatsApp": "http://wa.me/551130030335"
+    },
+    {
+        "CPF": "103.495.658-21",
+        "CNPJ": "",
+        "Placa": "SUC6E80",
+        "Seguradora": "Allianz",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4090-1110",
+        "TelefoneOutrasLocalidades": "0800-013-0700",
+        "WhatsApp": "http://wa.me/551140901444"
+    },
+    {
+        "CPF": "309.421.948-96",
+        "CNPJ": "",
+        "Placa": "-",
+        "Seguradora": "Bradesco",
+        "Modalidade ": "RESIDENCIAL",
+        "TelefoneCapitais": "4004-2757",
+        "TelefoneOutrasLocalidades": "0800-701-2757",
+        "WhatsApp": "http://wa.me/551130031022"
+    },
+    {
+        "CPF": "049.990.888-00",
+        "CNPJ": "",
+        "Placa": "FTG0G51",
+        "Seguradora": "Tokio Marine",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4020-4848",
+        "TelefoneOutrasLocalidades": "0800-285-4141",
+        "WhatsApp": "http://wa.me/5511995786546"
+    },
+    {
+        "CPF": "296.947.218-06",
+        "CNPJ": "",
+        "Placa": "FAF5J80",
+        "Seguradora": "Suhai",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "0800-3186-546",
+        "TelefoneOutrasLocalidades": "0800-3186-546",
+        "WhatsApp": "http://wa.me/551130030335"
+    },
+    {
+        "CPF": "053.723.518-37",
+        "CNPJ": "",
+        "Placa": "CUN6J71",
+        "Seguradora": "Allianz",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4090-1110",
+        "TelefoneOutrasLocalidades": "0800-013-0700",
+        "WhatsApp": "http://wa.me/551140901444"
+    },
+    {
+        "CPF": "401.175.228-21",
+        "CNPJ": "",
+        "Placa": "FJU5D89",
+        "Seguradora": "Suhai",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "0800-3186-546",
+        "TelefoneOutrasLocalidades": "0800-3186-546",
+        "WhatsApp": "http://wa.me/551130030335"
+    },
+    {
+        "CPF": "299.573.838-84",
+        "CNPJ": "",
+        "Placa": "GGU7H36",
+        "Seguradora": "Suhai",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "0800-3186-546",
+        "TelefoneOutrasLocalidades": "0800-3186-546",
+        "WhatsApp": "http://wa.me/551130030335"
+    },
+    {
+        "CPF": "016.695.628-75",
+        "CNPJ": "",
+        "Placa": "HCO9494",
+        "Seguradora": "Tokio Marine",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4020-4848",
+        "TelefoneOutrasLocalidades": "0800-285-4141",
+        "WhatsApp": "http://wa.me/5511995786546"
+    },
+    {
+        "CPF": "126.895.948-03",
+        "CNPJ": "",
+        "Placa": "FND0C55",
+        "Seguradora": "Azul",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4004-3700",
+        "TelefoneOutrasLocalidades": "0800-7030-203",
+        "WhatsApp": "http://wa.me/552139062985"
+    },
+    {
+        "CPF": "270.543.038-57",
+        "CNPJ": "",
+        "Placa": "DUJ1G76",
+        "Seguradora": "Suhai",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "0800-3186-546",
+        "TelefoneOutrasLocalidades": "0800-3186-546",
+        "WhatsApp": "http://wa.me/551130030335"
+    },
+    {
+        "CPF": "296.525.818-36",
+        "CNPJ": "",
+        "Placa": "-",
+        "Seguradora": "Porto",
+        "Modalidade ": "RESIDENCIAL",
+        "TelefoneCapitais": "3337-6786",
+        "TelefoneOutrasLocalidades": "0800-7270-800",
+        "WhatsApp": "http://wa.me/551130039303"
+    },
+    {
+        "CPF": "296.525.818-36",
+        "CNPJ": "",
+        "Placa": "FOY1497",
+        "Seguradora": "Tokio Marine",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4020-4848",
+        "TelefoneOutrasLocalidades": "0800-285-4141",
+        "WhatsApp": "http://wa.me/5511995786546"
+    },
+    {
+        "CPF": "304.670.938-22",
+        "CNPJ": "",
+        "Placa": "RTH3C35",
+        "Seguradora": "Mapfre",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4004-0101",
+        "TelefoneOutrasLocalidades": "0800-775-4545",
+        "WhatsApp": "http://wa.me/551140040101"
+    },
+    {
+        "CPF": "325.474.298-29",
+        "CNPJ": "",
+        "Placa": "-",
+        "Seguradora": "Porto",
+        "Modalidade ": "RESIDENCIAL",
+        "TelefoneCapitais": "3337-6786",
+        "TelefoneOutrasLocalidades": "0800-7270-800",
+        "WhatsApp": "http://wa.me/551130039303"
+    },
+    {
+        "CPF": "372.875.768-30",
+        "CNPJ": "",
+        "Placa": "EES1B25",
+        "Seguradora": "Bradesco",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4004-2757",
+        "TelefoneOutrasLocalidades": "0800-701-2757",
+        "WhatsApp": "http://wa.me/551130031022"
+    },
+    {
+        "CPF": "703.493.534-33",
+        "CNPJ": "",
+        "Placa": "RMY5A69",
+        "Seguradora": "Tokio Marine",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4020-4848",
+        "TelefoneOutrasLocalidades": "0800-285-4141",
+        "WhatsApp": "http://wa.me/5511995786546"
+    },
+    {
+        "CPF": "095.032.167-29",
+        "CNPJ": "",
+        "Placa": "ELQ7140",
+        "Seguradora": "Allianz",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4090-1110",
+        "TelefoneOutrasLocalidades": "0800-013-0700",
+        "WhatsApp": "http://wa.me/551140901444"
+    },
+    {
+        "CPF": "051.859.228-69",
+        "CNPJ": "",
+        "Placa": "GCA6C25",
+        "Seguradora": "Bradesco",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4004-2757",
+        "TelefoneOutrasLocalidades": "0800-701-2757",
+        "WhatsApp": "http://wa.me/551130031022"
+    },
+    {
+        "CPF": "342.223.118-80",
+        "CNPJ": "",
+        "Placa": "RHV1D30",
+        "Seguradora": "Bradesco",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4004-2757",
+        "TelefoneOutrasLocalidades": "0800-701-2757",
+        "WhatsApp": "http://wa.me/551130031022"
+    },
+    {
+        "CPF": "225.422.968-04",
+        "CNPJ": "",
+        "Placa": "-",
+        "Seguradora": "Allianz",
+        "Modalidade ": "RESIDENCIAL",
+        "TelefoneCapitais": "4090-1110",
+        "TelefoneOutrasLocalidades": "0800-013-0700",
+        "WhatsApp": "http://wa.me/551140901444"
+    },
+    {
+        "CPF": "049.990.888-00",
+        "CNPJ": "",
+        "Placa": "FDO2131",
+        "Seguradora": "Porto",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "3337-6786",
+        "TelefoneOutrasLocalidades": "0800-7270-800",
+        "WhatsApp": "http://wa.me/551130039303"
+    },
+    {
+        "CPF": "894.790.928-91",
+        "CNPJ": "",
+        "Placa": "FKR9582",
+        "Seguradora": "Porto",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "3337-6786",
+        "TelefoneOutrasLocalidades": "0800-7270-800",
+        "WhatsApp": "http://wa.me/551130039303"
+    },
+    {
+        "CPF": "194.940.158-86",
+        "CNPJ": "",
+        "Placa": "GII6D21",
+        "Seguradora": "Tokio Marine",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4020-4848",
+        "TelefoneOutrasLocalidades": "0800-285-4141",
+        "WhatsApp": "http://wa.me/5511995786546"
+    },
+    {
+        "CPF": "099.118.308-88",
+        "CNPJ": "",
+        "Placa": "FND2791",
+        "Seguradora": "Azul",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4004-3700",
+        "TelefoneOutrasLocalidades": "0800-7030-203",
+        "WhatsApp": "http://wa.me/552139062985"
+    },
+    {
+        "CPF": "045.245.301-18",
+        "CNPJ": "",
+        "Placa": "RAO1G19",
+        "Seguradora": "Mapfre",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4004-0101",
+        "TelefoneOutrasLocalidades": "0800-775-4545",
+        "WhatsApp": "http://wa.me/551140040101"
+    },
+    {
+        "CPF": "284.650.818-67",
+        "CNPJ": "",
+        "Placa": "RTE7D08",
+        "Seguradora": "HDI",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "3003-5390",
+        "TelefoneOutrasLocalidades": "0800-4344-340",
+        "WhatsApp": "http://wa.me/5508007701608"
+    },
+    {
+        "CPF": "168.769.970-49",
+        "CNPJ": "",
+        "Placa": "QNS8166",
+        "Seguradora": "Azul",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4004-3700",
+        "TelefoneOutrasLocalidades": "0800-7030-203",
+        "WhatsApp": "http://wa.me/552139062985"
+    },
+    {
+        "CPF": "023.180.518-79",
+        "CNPJ": "",
+        "Placa": "ELV0985",
+        "Seguradora": "Azul",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4004-3700",
+        "TelefoneOutrasLocalidades": "0800-7030-203",
+        "WhatsApp": "http://wa.me/552139062985"
+    },
+    {
+        "CPF": "329.117.678-29",
+        "CNPJ": "",
+        "Placa": "SWZ6I88",
+        "Seguradora": "Suhai",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "0800-3186-546",
+        "TelefoneOutrasLocalidades": "0800-3186-546",
+        "WhatsApp": "http://wa.me/551130030335"
+    },
+    {
+        "CPF": "042.881.408-54",
+        "CNPJ": "",
+        "Placa": "RUL3A22",
+        "Seguradora": "Allianz",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4090-1110",
+        "TelefoneOutrasLocalidades": "0800-013-0700",
+        "WhatsApp": "http://wa.me/551140901444"
+    },
+    {
+        "CPF": "534.144.629-15",
+        "CNPJ": "",
+        "Placa": "GIV1131",
+        "Seguradora": "Tokio Marine",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4020-4848",
+        "TelefoneOutrasLocalidades": "0800-285-4141",
+        "WhatsApp": "http://wa.me/5511995786546"
+    },
+    {
+        "CPF": "311.224.898-89",
+        "CNPJ": "",
+        "Placa": "FCK2C58",
+        "Seguradora": "Azul",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4004-3700",
+        "TelefoneOutrasLocalidades": "0800-7030-203",
+        "WhatsApp": "http://wa.me/552139062985"
+    },
+    {
+        "CPF": "184.655.318-03",
+        "CNPJ": "",
+        "Placa": "RBC5E30",
+        "Seguradora": "Porto",
+        "Modalidade ": "FROTA",
+        "TelefoneCapitais": "3337-6786",
+        "TelefoneOutrasLocalidades": "0800-7270-800",
+        "WhatsApp": "http://wa.me/551130039303"
+    },
+    {
+        "CPF": "369.156.528-09",
+        "CNPJ": "",
+        "Placa": "FJW3G22",
+        "Seguradora": "Porto",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "3337-6786",
+        "TelefoneOutrasLocalidades": "0800-7270-800",
+        "WhatsApp": "http://wa.me/551130039303"
+    },
+    {
+        "CPF": "063.812.858-77",
+        "CNPJ": "",
+        "Placa": "FXI3A31",
+        "Seguradora": "Allianz",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4090-1110",
+        "TelefoneOutrasLocalidades": "0800-013-0700",
+        "WhatsApp": "http://wa.me/551140901444"
+    },
+    {
+        "CPF": "320.539.868-83",
+        "CNPJ": "",
+        "Placa": "FQA3F86",
+        "Seguradora": "Tokio Marine",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4020-4848",
+        "TelefoneOutrasLocalidades": "0800-285-4141",
+        "WhatsApp": "http://wa.me/5511995786546"
+    },
+    {
+        "CPF": "880.356.628-72",
+        "CNPJ": "",
+        "Placa": "EZU6279",
+        "Seguradora": "Allianz",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4090-1110",
+        "TelefoneOutrasLocalidades": "0800-013-0700",
+        "WhatsApp": "http://wa.me/551140901444"
+    },
+    {
+        "CPF": "275.331.548-51",
+        "CNPJ": "",
+        "Placa": "EHF3B81",
+        "Seguradora": "Tokio Marine",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4020-4848",
+        "TelefoneOutrasLocalidades": "0800-285-4141",
+        "WhatsApp": "http://wa.me/5511995786546"
+    },
+    {
+        "CPF": "175.293.558-64",
+        "CNPJ": "",
+        "Placa": "ECV8J28",
+        "Seguradora": "Allianz",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4090-1110",
+        "TelefoneOutrasLocalidades": "0800-013-0700",
+        "WhatsApp": "http://wa.me/551140901444"
+    },
+    {
+        "CPF": "",
+        "CNPJ": "08.637.676/0001-00",
+        "Placa": "EMR3677",
+        "Seguradora": "Mapfre",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4004-0101",
+        "TelefoneOutrasLocalidades": "0800-775-4545",
+        "WhatsApp": "http://wa.me/551140040101"
+    },
+    {
+        "CPF": "874.516.038-49",
+        "CNPJ": "",
+        "Placa": "EBI5900",
+        "Seguradora": "Allianz",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4090-1110",
+        "TelefoneOutrasLocalidades": "0800-013-0700",
+        "WhatsApp": "http://wa.me/551140901444"
+    },
+    {
+        "CPF": "029.544.058-99",
+        "CNPJ": "",
+        "Placa": "SWM8H55",
+        "Seguradora": "Allianz",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4090-1110",
+        "TelefoneOutrasLocalidades": "0800-013-0700",
+        "WhatsApp": "http://wa.me/551140901444"
+    },
+    {
+        "CPF": "195.809.668-77",
+        "CNPJ": "",
+        "Placa": "-",
+        "Seguradora": "HDI",
+        "Modalidade ": "RESIDENCIAL",
+        "TelefoneCapitais": "3003-5390",
+        "TelefoneOutrasLocalidades": "0800-4344-340",
+        "WhatsApp": "http://wa.me/5508007701608"
+    },
+    {
+        "CPF": "424.675.938-43",
+        "CNPJ": "",
+        "Placa": "FIS8E55",
+        "Seguradora": "Suhai",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "0800-3186-546",
+        "TelefoneOutrasLocalidades": "0800-3186-546",
+        "WhatsApp": "http://wa.me/551130030335"
+    },
+    {
+        "CPF": "289.545.997-53",
+        "CNPJ": "",
+        "Placa": "SWE6G26",
+        "Seguradora": "Azul",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4004-3700",
+        "TelefoneOutrasLocalidades": "0800-7030-203",
+        "WhatsApp": "http://wa.me/552139062985"
+    },
+    {
+        "CPF": "186.374.438-00",
+        "CNPJ": "",
+        "Placa": "FRY2J00",
+        "Seguradora": "Suhai",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "0800-3186-546",
+        "TelefoneOutrasLocalidades": "0800-3186-546",
+        "WhatsApp": "http://wa.me/551130030335"
+    },
+    {
+        "CPF": "315.922.118-01",
+        "CNPJ": "",
+        "Placa": "EMU5668",
+        "Seguradora": "Suhai",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "0800-3186-546",
+        "TelefoneOutrasLocalidades": "0800-3186-546",
+        "WhatsApp": "http://wa.me/551130030335"
+    },
+    {
+        "CPF": "269.829.728-01",
+        "CNPJ": "",
+        "Placa": "END2497",
+        "Seguradora": "Bradesco",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4004-2757",
+        "TelefoneOutrasLocalidades": "0800-701-2757",
+        "WhatsApp": "http://wa.me/551130031022"
+    },
+    {
+        "CPF": "383.117.396-68",
+        "CNPJ": "",
+        "Placa": "EGN0307",
+        "Seguradora": "Azul",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4004-3700",
+        "TelefoneOutrasLocalidades": "0800-7030-203",
+        "WhatsApp": "http://wa.me/552139062985"
+    },
+    {
+        "CPF": "100.853.448-00",
+        "CNPJ": "",
+        "Placa": "EUK5A35",
+        "Seguradora": "Mapfre",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4004-0101",
+        "TelefoneOutrasLocalidades": "0800-775-4545",
+        "WhatsApp": "http://wa.me/551140040101"
+    },
+    {
+        "CPF": "079.158.118-78",
+        "CNPJ": "",
+        "Placa": "CUK2909",
+        "Seguradora": "Allianz",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4090-1110",
+        "TelefoneOutrasLocalidades": "0800-013-0700",
+        "WhatsApp": "http://wa.me/551140901444"
+    },
+    {
+        "CPF": "070.338.896-74",
+        "CNPJ": "",
+        "Placa": "PUF6698",
+        "Seguradora": "Allianz",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4090-1110",
+        "TelefoneOutrasLocalidades": "0800-013-0700",
+        "WhatsApp": "http://wa.me/551140901444"
+    },
+    {
+        "CPF": "014.513.258-78",
+        "CNPJ": "",
+        "Placa": "RNS1B13",
+        "Seguradora": "Suhai",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "0800-3186-546",
+        "TelefoneOutrasLocalidades": "0800-3186-546",
+        "WhatsApp": "http://wa.me/551130030335"
+    },
+    {
+        "CPF": "354.970.058-02",
+        "CNPJ": "",
+        "Placa": "FUW0I93",
+        "Seguradora": "Mapfre",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4004-0101",
+        "TelefoneOutrasLocalidades": "0800-775-4545",
+        "WhatsApp": "http://wa.me/551140040101"
+    },
+    {
+        "CPF": "321.696.628-39",
+        "CNPJ": "",
+        "Placa": "AXL2602",
+        "Seguradora": "Suhai",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "0800-3186-546",
+        "TelefoneOutrasLocalidades": "0800-3186-546",
+        "WhatsApp": "http://wa.me/551130030335"
+    },
+    {
+        "CPF": "013.420.978-82",
+        "CNPJ": "",
+        "Placa": "EEM4433",
+        "Seguradora": "Suhai",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "0800-3186-546",
+        "TelefoneOutrasLocalidades": "0800-3186-546",
+        "WhatsApp": "http://wa.me/551130030335"
+    },
+    {
+        "CPF": "069.337.288-54",
+        "CNPJ": "",
+        "Placa": "QJK4932",
+        "Seguradora": "Mapfre",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4004-0101",
+        "TelefoneOutrasLocalidades": "0800-775-4545",
+        "WhatsApp": "http://wa.me/551140040101"
+    },
+    {
+        "CPF": "940.662.481-87",
+        "CNPJ": "",
+        "Placa": "RAO7A30",
+        "Seguradora": "Bradesco",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4004-2757",
+        "TelefoneOutrasLocalidades": "0800-701-2757",
+        "WhatsApp": "http://wa.me/551130031022"
+    },
+    {
+        "CPF": "119.561.238-90",
+        "CNPJ": "",
+        "Placa": "GIX4H08",
+        "Seguradora": "Aliro",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "0800-7701-318",
+        "TelefoneOutrasLocalidades": "0800-7701-318",
+        "WhatsApp": "http://wa.me/551132061414"
+    },
+    {
+        "CPF": "019.128.501-33",
+        "CNPJ": "",
+        "Placa": "QAV5B40",
+        "Seguradora": "Tokio Marine",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4020-4848",
+        "TelefoneOutrasLocalidades": "0800-285-4141",
+        "WhatsApp": "http://wa.me/5511995786546"
+    },
+    {
+        "CPF": "296.947.218-06",
+        "CNPJ": "",
+        "Placa": "CCU9527",
+        "Seguradora": "Suhai",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "0800-3186-546",
+        "TelefoneOutrasLocalidades": "0800-3186-546",
+        "WhatsApp": "http://wa.me/551130030335"
+    },
+    {
+        "CPF": "226.243.708-46",
+        "CNPJ": "",
+        "Placa": "EII8F51",
+        "Seguradora": "Suhai",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "0800-3186-546",
+        "TelefoneOutrasLocalidades": "0800-3186-546",
+        "WhatsApp": "http://wa.me/551130030335"
+    },
+    {
+        "CPF": "227.224.768-78",
+        "CNPJ": "",
+        "Placa": "EXY5230",
+        "Seguradora": "Azul",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4004-3700",
+        "TelefoneOutrasLocalidades": "0800-7030-203",
+        "WhatsApp": "http://wa.me/552139062985"
+    },
+    {
+        "CPF": "354.425.858-74",
+        "CNPJ": "",
+        "Placa": "EHH5867",
+        "Seguradora": "Allianz",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4090-1110",
+        "TelefoneOutrasLocalidades": "0800-013-0700",
+        "WhatsApp": "http://wa.me/551140901444"
+    },
+    {
+        "CPF": "",
+        "CNPJ": "08.998.043/0001-10",
+        "Placa": "SVJ7D94",
+        "Seguradora": "Suhai",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "0800-3186-546",
+        "TelefoneOutrasLocalidades": "0800-3186-546",
+        "WhatsApp": "http://wa.me/551130030335"
+    },
+    {
+        "CPF": "119.830.084-19",
+        "CNPJ": "",
+        "Placa": "PNW3B63",
+        "Seguradora": "HDI",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "3003-5390",
+        "TelefoneOutrasLocalidades": "0800-4344-340",
+        "WhatsApp": "http://wa.me/5508007701608"
+    },
+    {
+        "CPF": "220.217.808-21",
+        "CNPJ": "",
+        "Placa": "FZX4577",
+        "Seguradora": "Suhai",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "0800-3186-546",
+        "TelefoneOutrasLocalidades": "0800-3186-546",
+        "WhatsApp": "http://wa.me/551130030335"
+    },
+    {
+        "CPF": "226.781.558-38",
+        "CNPJ": "",
+        "Placa": "CFZ7D67",
+        "Seguradora": "Suhai",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "0800-3186-546",
+        "TelefoneOutrasLocalidades": "0800-3186-546",
+        "WhatsApp": "http://wa.me/551130030335"
+    },
+    {
+        "CPF": "449.888.088-90",
+        "CNPJ": "",
+        "Placa": "PYV0H87",
+        "Seguradora": "Mapfre",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4004-0101",
+        "TelefoneOutrasLocalidades": "0800-775-4545",
+        "WhatsApp": "http://wa.me/551140040101"
+    },
+    {
+        "CPF": "064.323.919-70",
+        "CNPJ": "",
+        "Placa": "FOA4340",
+        "Seguradora": "Azul",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4004-3700",
+        "TelefoneOutrasLocalidades": "0800-7030-203",
+        "WhatsApp": "http://wa.me/552139062985"
+    },
+    {
+        "CPF": "255.675.258-00",
+        "CNPJ": "",
+        "Placa": "-",
+        "Seguradora": "Bradesco",
+        "Modalidade ": "RESIDENCIAL",
+        "TelefoneCapitais": "4004-2757",
+        "TelefoneOutrasLocalidades": "0800-701-2757",
+        "WhatsApp": "http://wa.me/551130031022"
+    },
+    {
+        "CPF": "284.416.008-56",
+        "CNPJ": "",
+        "Placa": "GJW3089",
+        "Seguradora": "Porto",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "3337-6786",
+        "TelefoneOutrasLocalidades": "0800-7270-800",
+        "WhatsApp": "http://wa.me/551130039303"
+    },
+    {
+        "CPF": "322.892.178-67",
+        "CNPJ": "",
+        "Placa": "DAL0569",
+        "Seguradora": "Azul",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4004-3700",
+        "TelefoneOutrasLocalidades": "0800-7030-203",
+        "WhatsApp": "http://wa.me/552139062985"
+    },
+    {
+        "CPF": "223.166.838-60",
+        "CNPJ": "",
+        "Placa": "FLP7368",
+        "Seguradora": "Tokio Marine",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4020-4848",
+        "TelefoneOutrasLocalidades": "0800-285-4141",
+        "WhatsApp": "http://wa.me/5511995786546"
+    },
+    {
+        "CPF": "",
+        "CNPJ": "33.722.392/0001-51",
+        "Placa": "FPC1245",
+        "Seguradora": "Suhai",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "0800-3186-546",
+        "TelefoneOutrasLocalidades": "0800-3186-546",
+        "WhatsApp": "http://wa.me/551130030335"
+    },
+    {
+        "CPF": "",
+        "CNPJ": "33.722.392/0001-51",
+        "Placa": "FVP5613",
+        "Seguradora": "Suhai",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "0800-3186-546",
+        "TelefoneOutrasLocalidades": "0800-3186-546",
+        "WhatsApp": "http://wa.me/551130030335"
+    },
+    {
+        "CPF": "278.321.038-09",
+        "CNPJ": "",
+        "Placa": "ELD9201",
+        "Seguradora": "Tokio Marine",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4020-4848",
+        "TelefoneOutrasLocalidades": "0800-285-4141",
+        "WhatsApp": "http://wa.me/5511995786546"
+    },
+    {
+        "CPF": "118.103.977-07",
+        "CNPJ": "",
+        "Placa": "RBG6I77",
+        "Seguradora": "Suhai",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "0800-3186-546",
+        "TelefoneOutrasLocalidades": "0800-3186-546",
+        "WhatsApp": "http://wa.me/551130030335"
+    },
+    {
+        "CPF": "099.118.308-88",
+        "CNPJ": "",
+        "Placa": "-",
+        "Seguradora": "Porto",
+        "Modalidade ": "RESIDENCIAL",
+        "TelefoneCapitais": "3337-6786",
+        "TelefoneOutrasLocalidades": "0800-7270-800",
+        "WhatsApp": "http://wa.me/551130039303"
+    },
+    {
+        "CPF": "225.080.318-87",
+        "CNPJ": "",
+        "Placa": "EEE9429",
+        "Seguradora": "Tokio Marine",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4020-4848",
+        "TelefoneOutrasLocalidades": "0800-285-4141",
+        "WhatsApp": "http://wa.me/5511995786546"
+    },
+    {
+        "CPF": "369.927.138-25",
+        "CNPJ": "",
+        "Placa": "ETW4I59",
+        "Seguradora": "Suhai",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "0800-3186-546",
+        "TelefoneOutrasLocalidades": "0800-3186-546",
+        "WhatsApp": "http://wa.me/551130030335"
+    },
+    {
+        "CPF": "759.697.348-53",
+        "CNPJ": "",
+        "Placa": "FKO8513",
+        "Seguradora": "Tokio Marine",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4020-4848",
+        "TelefoneOutrasLocalidades": "0800-285-4141",
+        "WhatsApp": "http://wa.me/5511995786546"
+    },
+    {
+        "CPF": "321.270.728-39",
+        "CNPJ": "",
+        "Placa": "SVF3A49",
+        "Seguradora": "HDI",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "3003-5390",
+        "TelefoneOutrasLocalidades": "0800-4344-340",
+        "WhatsApp": "http://wa.me/5508007701608"
+    },
+    {
+        "CPF": "",
+        "CNPJ": "09.144.180/0001-50",
+        "Placa": "DZN2G35",
+        "Seguradora": "Porto",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "3337-6786",
+        "TelefoneOutrasLocalidades": "0800-7270-800",
+        "WhatsApp": "http://wa.me/551130039303"
+    },
+    {
+        "CPF": "310.841.578-61",
+        "CNPJ": "",
+        "Placa": "DMC4698",
+        "Seguradora": "Tokio Marine",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4020-4848",
+        "TelefoneOutrasLocalidades": "0800-285-4141",
+        "WhatsApp": "http://wa.me/5511995786546"
+    },
+    {
+        "CPF": "307.867.078-36",
+        "CNPJ": "",
+        "Placa": "EDL6A95",
+        "Seguradora": "Mapfre",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4004-0101",
+        "TelefoneOutrasLocalidades": "0800-775-4545",
+        "WhatsApp": "http://wa.me/551140040101"
+    },
+    {
+        "CPF": "010.378.288-52",
+        "CNPJ": "",
+        "Placa": "FAR4330",
+        "Seguradora": "Tokio Marine",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4020-4848",
+        "TelefoneOutrasLocalidades": "0800-285-4141",
+        "WhatsApp": "http://wa.me/5511995786546"
+    },
+    {
+        "CPF": "262.241.498-60",
+        "CNPJ": "",
+        "Placa": "FXL3056",
+        "Seguradora": "Porto",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "3337-6786",
+        "TelefoneOutrasLocalidades": "0800-7270-800",
+        "WhatsApp": "http://wa.me/551130039303"
+    },
+    {
+        "CPF": "430.413.658-55",
+        "CNPJ": "",
+        "Placa": "FNG1E78",
+        "Seguradora": "Azul",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4004-3700",
+        "TelefoneOutrasLocalidades": "0800-7030-203",
+        "WhatsApp": "http://wa.me/552139062985"
+    },
+    {
+        "CPF": "259.309.048-04",
+        "CNPJ": "",
+        "Placa": "-",
+        "Seguradora": "Bradesco",
+        "Modalidade ": "RESIDENCIAL",
+        "TelefoneCapitais": "4004-2757",
+        "TelefoneOutrasLocalidades": "0800-701-2757",
+        "WhatsApp": "http://wa.me/551130031022"
+    },
+    {
+        "CPF": "142.153.638-29",
+        "CNPJ": "",
+        "Placa": "-",
+        "Seguradora": "Porto",
+        "Modalidade ": "RESIDENCIAL",
+        "TelefoneCapitais": "3337-6786",
+        "TelefoneOutrasLocalidades": "0800-7270-800",
+        "WhatsApp": "http://wa.me/551130039303"
+    },
+    {
+        "CPF": "355.296.238-75",
+        "CNPJ": "",
+        "Placa": "SVJ5J25",
+        "Seguradora": "Mapfre",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4004-0101",
+        "TelefoneOutrasLocalidades": "0800-775-4545",
+        "WhatsApp": "http://wa.me/551140040101"
+    },
+    {
+        "CPF": "",
+        "CNPJ": "01.097.550/0001-33",
+        "Placa": "DVR8416",
+        "Seguradora": "Bradesco",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4004-2757",
+        "TelefoneOutrasLocalidades": "0800-701-2757",
+        "WhatsApp": "http://wa.me/551130031022"
+    },
+    {
+        "CPF": "213.029.698-03",
+        "CNPJ": "",
+        "Placa": "FFA5F72",
+        "Seguradora": "Suhai",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "0800-3186-546",
+        "TelefoneOutrasLocalidades": "0800-3186-546",
+        "WhatsApp": "http://wa.me/551130030335"
+    },
+    {
+        "CPF": "903.013.588-34",
+        "CNPJ": "",
+        "Placa": "RFS7B55",
+        "Seguradora": "Allianz",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4090-1110",
+        "TelefoneOutrasLocalidades": "0800-013-0700",
+        "WhatsApp": "http://wa.me/551140901444"
+    },
+    {
+        "CPF": "179.926.438-60",
+        "CNPJ": "",
+        "Placa": "FCA0683",
+        "Seguradora": "Porto",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "3337-6786",
+        "TelefoneOutrasLocalidades": "0800-7270-800",
+        "WhatsApp": "http://wa.me/551130039303"
+    },
+    {
+        "CPF": "354.045.508-64",
+        "CNPJ": "",
+        "Placa": "FTG7D77",
+        "Seguradora": "Suhai",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "0800-3186-546",
+        "TelefoneOutrasLocalidades": "0800-3186-546",
+        "WhatsApp": "http://wa.me/551130030335"
+    },
+    {
+        "CPF": "258.299.798-61",
+        "CNPJ": "",
+        "Placa": "GBD3H44",
+        "Seguradora": "Allianz",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4090-1110",
+        "TelefoneOutrasLocalidades": "0800-013-0700",
+        "WhatsApp": "http://wa.me/551140901444"
+    },
+    {
+        "CPF": "397.057.568-05",
+        "CNPJ": "",
+        "Placa": "QXS9A00",
+        "Seguradora": "Porto",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "3337-6786",
+        "TelefoneOutrasLocalidades": "0800-7270-800",
+        "WhatsApp": "http://wa.me/551130039303"
+    },
+    {
+        "CPF": "060.707.868-58",
+        "CNPJ": "",
+        "Placa": "DIR9B92",
+        "Seguradora": "Tokio Marine",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4020-4848",
+        "TelefoneOutrasLocalidades": "0800-285-4141",
+        "WhatsApp": "http://wa.me/5511995786546"
+    },
+    {
+        "CPF": "314.461.638-90",
+        "CNPJ": "",
+        "Placa": "DQI0B26",
+        "Seguradora": "Suhai",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "0800-3186-546",
+        "TelefoneOutrasLocalidades": "0800-3186-546",
+        "WhatsApp": "http://wa.me/551130030335"
+    },
+    {
+        "CPF": "412.404.098-93",
+        "CNPJ": "",
+        "Placa": "FVP5H15",
+        "Seguradora": "Ezze",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "0800-983-3993",
+        "TelefoneOutrasLocalidades": "0800-983-3993",
+        "WhatsApp": "-"
+    },
+    {
+        "CPF": "408.981.458-80",
+        "CNPJ": "",
+        "Placa": "RII3G15",
+        "Seguradora": "Suhai",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "0800-3186-546",
+        "TelefoneOutrasLocalidades": "0800-3186-546",
+        "WhatsApp": "http://wa.me/551130030335"
+    },
+    {
+        "CPF": "397.615.408-39",
+        "CNPJ": "",
+        "Placa": "EUF5F71",
+        "Seguradora": "Suhai",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "0800-3186-546",
+        "TelefoneOutrasLocalidades": "0800-3186-546",
+        "WhatsApp": "http://wa.me/551130030335"
+    },
+    {
+        "CPF": "190.964.068-93",
+        "CNPJ": "",
+        "Placa": "FSW5883",
+        "Seguradora": "Suhai",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "0800-3186-546",
+        "TelefoneOutrasLocalidades": "0800-3186-546",
+        "WhatsApp": "http://wa.me/551130030335"
+    },
+    {
+        "CPF": "316.476.078-76",
+        "CNPJ": "",
+        "Placa": "FIE2E25",
+        "Seguradora": "Suhai",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "0800-3186-546",
+        "TelefoneOutrasLocalidades": "0800-3186-546",
+        "WhatsApp": "http://wa.me/551130030335"
+    },
+    {
+        "CPF": "316.476.078-76",
+        "CNPJ": "",
+        "Placa": "FVW3B77",
+        "Seguradora": "Tokio Marine",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4020-4848",
+        "TelefoneOutrasLocalidades": "0800-285-4141",
+        "WhatsApp": "http://wa.me/5511995786546"
+    },
+    {
+        "CPF": "135.167.828-03",
+        "CNPJ": "",
+        "Placa": "EUR6J54",
+        "Seguradora": "Allianz",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4090-1110",
+        "TelefoneOutrasLocalidades": "0800-013-0700",
+        "WhatsApp": "http://wa.me/551140901444"
+    },
+    {
+        "CPF": "170.977.578-50",
+        "CNPJ": "",
+        "Placa": "EBA0429",
+        "Seguradora": "Porto",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "3337-6786",
+        "TelefoneOutrasLocalidades": "0800-7270-800",
+        "WhatsApp": "http://wa.me/551130039303"
+    },
+    {
+        "CPF": "286.587.228-99",
+        "CNPJ": "",
+        "Placa": "FKG7H71",
+        "Seguradora": "Mapfre",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4004-0101",
+        "TelefoneOutrasLocalidades": "0800-775-4545",
+        "WhatsApp": "http://wa.me/551140040101"
+    },
+    {
+        "CPF": "354.772.928-90",
+        "CNPJ": "",
+        "Placa": "FOF0B74",
+        "Seguradora": "Azul",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4004-3700",
+        "TelefoneOutrasLocalidades": "0800-7030-203",
+        "WhatsApp": "http://wa.me/552139062985"
+    },
+    {
+        "CPF": "007.565.898-43",
+        "CNPJ": "",
+        "Placa": "CFT6157",
+        "Seguradora": "Azul",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4004-3700",
+        "TelefoneOutrasLocalidades": "0800-7030-203",
+        "WhatsApp": "http://wa.me/552139062985"
+    },
+    {
+        "CPF": "220.217.808-21",
+        "CNPJ": "",
+        "Placa": "DVR2449",
+        "Seguradora": "Suhai",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "0800-3186-546",
+        "TelefoneOutrasLocalidades": "0800-3186-546",
+        "WhatsApp": "http://wa.me/551130030335"
+    },
+    {
+        "CPF": "388.166.188-33",
+        "CNPJ": "",
+        "Placa": "GIU6F72",
+        "Seguradora": "Suhai",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "0800-3186-546",
+        "TelefoneOutrasLocalidades": "0800-3186-546",
+        "WhatsApp": "http://wa.me/551130030335"
+    },
+    {
+        "CPF": "",
+        "CNPJ": "08.998.043/0001-10",
+        "Placa": "RFS7C65",
+        "Seguradora": "Bradesco",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4004-2757",
+        "TelefoneOutrasLocalidades": "0800-701-2757",
+        "WhatsApp": "http://wa.me/551130031022"
+    },
+    {
+        "CPF": "411.334.138-97",
+        "CNPJ": "",
+        "Placa": "GJC4I24",
+        "Seguradora": "Ezze",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "0800-983-3993",
+        "TelefoneOutrasLocalidades": "0800-983-3993",
+        "WhatsApp": "-"
+    },
+    {
+        "CPF": "213.464.988-73",
+        "CNPJ": "",
+        "Placa": "FTN3H79",
+        "Seguradora": "Allianz",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4090-1110",
+        "TelefoneOutrasLocalidades": "0800-013-0700",
+        "WhatsApp": "http://wa.me/551140901444"
+    },
+    {
+        "CPF": "347.141.108-96",
+        "CNPJ": "",
+        "Placa": "DUF1G74",
+        "Seguradora": "Tokio Marine",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4020-4848",
+        "TelefoneOutrasLocalidades": "0800-285-4141",
+        "WhatsApp": "http://wa.me/5511995786546"
+    },
+    {
+        "CPF": "320.959.828-27",
+        "CNPJ": "",
+        "Placa": "EJD4473",
+        "Seguradora": "Porto",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "3337-6786",
+        "TelefoneOutrasLocalidades": "0800-7270-800",
+        "WhatsApp": "http://wa.me/551130039303"
+    },
+    {
+        "CPF": "347.141.108-96",
+        "CNPJ": "",
+        "Placa": "CRR4H92",
+        "Seguradora": "Liberty",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "0800-7014-120",
+        "TelefoneOutrasLocalidades": "0800-7014-120",
+        "WhatsApp": "http://wa.me/551132061414"
+    },
+    {
+        "CPF": "077.238.428-21",
+        "CNPJ": "",
+        "Placa": "EMI7C63",
+        "Seguradora": "Azul",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4004-3700",
+        "TelefoneOutrasLocalidades": "0800-7030-203",
+        "WhatsApp": "http://wa.me/552139062985"
+    },
+    {
+        "CPF": "001.563.088-94",
+        "CNPJ": "",
+        "Placa": "FAD4395",
+        "Seguradora": "Bradesco",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4004-2757",
+        "TelefoneOutrasLocalidades": "0800-701-2757",
+        "WhatsApp": "http://wa.me/551130031022"
+    },
+    {
+        "CPF": "216.147.838-96",
+        "CNPJ": "",
+        "Placa": "GAS0B78",
+        "Seguradora": "Suhai",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "0800-3186-546",
+        "TelefoneOutrasLocalidades": "0800-3186-546",
+        "WhatsApp": "http://wa.me/551130030335"
+    },
+    {
+        "CPF": "131.504.607-51",
+        "CNPJ": "",
+        "Placa": "REP5E66",
+        "Seguradora": "Azul",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4004-3700",
+        "TelefoneOutrasLocalidades": "0800-7030-203",
+        "WhatsApp": "http://wa.me/552139062985"
+    },
+    {
+        "CPF": "330.733.478-60",
+        "CNPJ": "",
+        "Placa": "AYB8540",
+        "Seguradora": "Azul",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4004-3700",
+        "TelefoneOutrasLocalidades": "0800-7030-203",
+        "WhatsApp": "http://wa.me/552139062985"
+    },
+    {
+        "CPF": "080.840.158-00",
+        "CNPJ": "",
+        "Placa": "NPE7F32",
+        "Seguradora": "Porto",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "3337-6786",
+        "TelefoneOutrasLocalidades": "0800-7270-800",
+        "WhatsApp": "http://wa.me/551130039303"
+    },
+    {
+        "CPF": "179.926.438-60",
+        "CNPJ": "",
+        "Placa": "BWW5118",
+        "Seguradora": "Suhai",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "0800-3186-546",
+        "TelefoneOutrasLocalidades": "0800-3186-546",
+        "WhatsApp": "http://wa.me/551130030335"
+    },
+    {
+        "CPF": "942.269.383-72",
+        "CNPJ": "",
+        "Placa": "FVF3387",
+        "Seguradora": "Bradesco",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4004-2757",
+        "TelefoneOutrasLocalidades": "0800-701-2757",
+        "WhatsApp": "http://wa.me/551130031022"
+    },
+    {
+        "CPF": "336.632.598-46",
+        "CNPJ": "",
+        "Placa": "-",
+        "Seguradora": "Bradesco",
+        "Modalidade ": "RESIDENCIAL",
+        "TelefoneCapitais": "4004-2757",
+        "TelefoneOutrasLocalidades": "0800-701-2757",
+        "WhatsApp": "http://wa.me/551130031022"
+    },
+    {
+        "CPF": "336.632.598-46",
+        "CNPJ": "",
+        "Placa": "-",
+        "Seguradora": "Bradesco",
+        "Modalidade ": "RESIDENCIAL",
+        "TelefoneCapitais": "4004-2757",
+        "TelefoneOutrasLocalidades": "0800-701-2757",
+        "WhatsApp": "http://wa.me/551130031022"
+    },
+    {
+        "CPF": "020.557.356-83",
+        "CNPJ": "",
+        "Placa": "QOP7J13",
+        "Seguradora": "Mapfre",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4004-0101",
+        "TelefoneOutrasLocalidades": "0800-775-4545",
+        "WhatsApp": "http://wa.me/551140040101"
+    },
+    {
+        "CPF": "087.303.388-40",
+        "CNPJ": "",
+        "Placa": "GJJ8F87",
+        "Seguradora": "Suhai",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "0800-3186-546",
+        "TelefoneOutrasLocalidades": "0800-3186-546",
+        "WhatsApp": "http://wa.me/551130030335"
+    },
+    {
+        "CPF": "178.116.818-03",
+        "CNPJ": "",
+        "Placa": "-",
+        "Seguradora": "HDI",
+        "Modalidade ": "RESIDENCIAL",
+        "TelefoneCapitais": "3003-5390",
+        "TelefoneOutrasLocalidades": "0800-4344-340",
+        "WhatsApp": "http://wa.me/5508007701608"
+    },
+    {
+        "CPF": "063.594.095-77",
+        "CNPJ": "",
+        "Placa": "DUH2545",
+        "Seguradora": "Azul",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4004-3700",
+        "TelefoneOutrasLocalidades": "0800-7030-203",
+        "WhatsApp": "http://wa.me/552139062985"
+    },
+    {
+        "CPF": "166.227.538-22",
+        "CNPJ": "",
+        "Placa": "ERI6848",
+        "Seguradora": "Ezze",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "0800-983-3993",
+        "TelefoneOutrasLocalidades": "0800-983-3993",
+        "WhatsApp": "-"
+    },
+    {
+        "CPF": "465.389.758-10",
+        "CNPJ": "",
+        "Placa": "FAU3A69",
+        "Seguradora": "Suhai",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "0800-3186-546",
+        "TelefoneOutrasLocalidades": "0800-3186-546",
+        "WhatsApp": "http://wa.me/551130030335"
+    },
+    {
+        "CPF": "100.748.868-94",
+        "CNPJ": "",
+        "Placa": "GHI3E55",
+        "Seguradora": "Azul",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4004-3700",
+        "TelefoneOutrasLocalidades": "0800-7030-203",
+        "WhatsApp": "http://wa.me/552139062985"
+    },
+    {
+        "CPF": "129.425.508-80",
+        "CNPJ": "",
+        "Placa": "FGJ4159",
+        "Seguradora": "Azul",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4004-3700",
+        "TelefoneOutrasLocalidades": "0800-7030-203",
+        "WhatsApp": "http://wa.me/552139062985"
+    },
+    {
+        "CPF": "",
+        "CNPJ": "08.998.043/0001-10",
+        "Placa": "GHA0B54",
+        "Seguradora": "Suhai",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "0800-3186-546",
+        "TelefoneOutrasLocalidades": "0800-3186-546",
+        "WhatsApp": "http://wa.me/551130030335"
+    },
+    {
+        "CPF": "112.311.868-01",
+        "CNPJ": "",
+        "Placa": "GJW0426",
+        "Seguradora": "Porto",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "3337-6786",
+        "TelefoneOutrasLocalidades": "0800-7270-800",
+        "WhatsApp": "http://wa.me/551130039303"
+    },
+    {
+        "CPF": "926.727.797-91",
+        "CNPJ": "",
+        "Placa": "GEM5C09",
+        "Seguradora": "Porto",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "3337-6786",
+        "TelefoneOutrasLocalidades": "0800-7270-800",
+        "WhatsApp": "http://wa.me/551130039303"
+    },
+    {
+        "CPF": "340.925.158-80",
+        "CNPJ": "",
+        "Placa": "GIQ1B22",
+        "Seguradora": "Ezze",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "0800-983-3993",
+        "TelefoneOutrasLocalidades": "0800-983-3993",
+        "WhatsApp": "-"
+    },
+    {
+        "CPF": "132.639.138-08",
+        "CNPJ": "",
+        "Placa": "EWV3H63",
+        "Seguradora": "Porto",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "3337-6786",
+        "TelefoneOutrasLocalidades": "0800-7270-800",
+        "WhatsApp": "http://wa.me/551130039303"
+    },
+    {
+        "CPF": "987.153.058-72",
+        "CNPJ": "",
+        "Placa": "EBJ7440",
+        "Seguradora": "Azul",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4004-3700",
+        "TelefoneOutrasLocalidades": "0800-7030-203",
+        "WhatsApp": "http://wa.me/552139062985"
+    },
+    {
+        "CPF": "001.498.138-64",
+        "CNPJ": "",
+        "Placa": "FQB1735",
+        "Seguradora": "Porto",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "3337-6786",
+        "TelefoneOutrasLocalidades": "0800-7270-800",
+        "WhatsApp": "http://wa.me/551130039303"
+    },
+    {
+        "CPF": "082.497.078-00",
+        "CNPJ": "",
+        "Placa": "DEB0961",
+        "Seguradora": "Azul",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4004-3700",
+        "TelefoneOutrasLocalidades": "0800-7030-203",
+        "WhatsApp": "http://wa.me/552139062985"
+    },
+    {
+        "CPF": "248.968.908-84",
+        "CNPJ": "",
+        "Placa": "EPI1201",
+        "Seguradora": "Porto",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "3337-6786",
+        "TelefoneOutrasLocalidades": "0800-7270-800",
+        "WhatsApp": "http://wa.me/551130039303"
+    },
+    {
+        "CPF": "317.581.228-70",
+        "CNPJ": "",
+        "Placa": "EBB2097",
+        "Seguradora": "Porto",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "3337-6786",
+        "TelefoneOutrasLocalidades": "0800-7270-800",
+        "WhatsApp": "http://wa.me/551130039303"
+    },
+    {
+        "CPF": "270.445.758-11",
+        "CNPJ": "",
+        "Placa": "EWW0942",
+        "Seguradora": "Porto",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "3337-6786",
+        "TelefoneOutrasLocalidades": "0800-7270-800",
+        "WhatsApp": "http://wa.me/551130039303"
+    },
+    {
+        "CPF": "402.937.618-50",
+        "CNPJ": "",
+        "Placa": "FVR7H28",
+        "Seguradora": "Azul",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4004-3700",
+        "TelefoneOutrasLocalidades": "0800-7030-203",
+        "WhatsApp": "http://wa.me/552139062985"
+    },
+    {
+        "CPF": "943.930.797-87",
+        "CNPJ": "",
+        "Placa": "GDS9G52",
+        "Seguradora": "Mapfre",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4004-0101",
+        "TelefoneOutrasLocalidades": "0800-775-4545",
+        "WhatsApp": "http://wa.me/551140040101"
+    },
+    {
+        "CPF": "436.562.258-77",
+        "CNPJ": "",
+        "Placa": "FOF7F01",
+        "Seguradora": "Mapfre",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "4004-0101",
+        "TelefoneOutrasLocalidades": "0800-775-4545",
+        "WhatsApp": "http://wa.me/551140040101"
+    },
+    {
+        "CPF": "152.383.988-08",
+        "CNPJ": "",
+        "Placa": "GIS2E47",
+        "Seguradora": "Porto",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "3337-6786",
+        "TelefoneOutrasLocalidades": "0800-7270-800",
+        "WhatsApp": "http://wa.me/551130039303"
+    },
+    {
+        "CPF": "399.236.278-70",
+        "CNPJ": "",
+        "Placa": "DZG8982",
+        "Seguradora": "Suhai",
+        "Modalidade ": "AUTO",
+        "TelefoneCapitais": "0800-3186-546",
+        "TelefoneOutrasLocalidades": "0800-3186-546",
+        "WhatsApp": "http://wa.me/551130030335"
+    }
+]
